@@ -1,5 +1,5 @@
 <content-type name="/page/landingpage" is-wcm-type="true">
-	<label>LandingPage</label>
+	<label>Landing Page</label>
 	<form>/page/landingpage</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
