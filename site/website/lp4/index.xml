@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>18ae</objectGroupId>
+	<objectId>18aeac22-cd48-024b-6e28-8cd3462a8aba</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>lp4</folder-name>
+	<internal-name>Landing Page 4</internal-name>
+	<title_s>Microsite 2020</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Hello world this is the landing page.</description_t>
+	<sections_o item-list="true"/>
+	<keywords_o item-list="true">	<item>	</item></keywords_o>
+	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
+	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
+	<lastModifiedDate>2020-01-14T23:48:14.728Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-14T23:48:14.728Z</lastModifiedDate_dt>
+</page>
