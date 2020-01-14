@@ -7,19 +7,21 @@ descriptorVersion: 2
 plugin:
   type: blueprint
   id: org.craftercms.blueprint.empty
-  name: Empty Blueprint
+  name: Microsite 2020
   tags:
     - blueprint
     - website
+    - microsite
+    - landingpage
   version:
-    major: 1
-    minor: 0
+    major: 0
+    minor: 1
     patch: 0
   description: |
-    Simple empty blueprint
+    A simple microsite template for Crafter. Initial version supports a single landing page. Blogs, articles, and more coming soon.
   website:
-    name: Empty Blueprint
-    url: https://craftercms.org
+    name: Microsite 2020
+    url: https://function1.com/
   media:
     screenshots:
       - title: Home Page
@@ -27,9 +29,9 @@ plugin:
         url: /studio/static-assets/images/blueprints/empty/bp_empty.png
   developer:
     company:
-      name: Crafter Software
-      email: info@craftersoftware.com
-      url: https://craftersoftware.com/
+      name: Function1
+      email: info@function1.com
+      url: https://function1.com/
   build:
     id: c3d2a5444e6a24b5e0481d6ba87901d0b02716c8
     date: 2019-01-23T00:00:00Z
