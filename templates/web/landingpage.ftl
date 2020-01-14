@@ -1,5 +1,4 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +13,8 @@
 <div <@studio.iceAttr iceGroup="main"/>>
     ${model.body_html}
 </div>
-<h1>HELLO WORLD FROM LANDING PAGE TEMPLATE</h1>
+<h1>Hello world from the landing page template.</h1>
+<p>Yes, for now this is hard-coded.</p>
 <@studio.toolSupport/>
 </body>
 </html>
