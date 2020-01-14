@@ -1,5 +1,5 @@
 <form>
-	<title>LandingPage</title>
+	<title>Landing Page</title>
 	<description></description>
 	<objectType>page</objectType>
 	<content-type>/page/landingpage</content-type>
@@ -9,7 +9,7 @@
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value></value>
+			<value>/templates/web/landingpage.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
