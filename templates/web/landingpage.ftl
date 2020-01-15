@@ -39,7 +39,7 @@
 <header class="header">
     <nav class="navbar navbar-expand-lg fixed-top bg-transparent">
         <div class="container">
-            <a class="navbar-brand" href="/"><img src="/static-assets/img/logo-white-1x.png" width="120" alt="logo" class="img-fluid"></a>
+            <a class="navbar-brand" href="/"><img src="/static-assets/img/microsite2020/landing-page-logo.png" width="120" alt="logo" class="img-fluid"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="ti-menu"></span>
