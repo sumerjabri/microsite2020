@@ -91,7 +91,7 @@
 		<section>
 			<title>Call To Action</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
@@ -190,17 +190,17 @@
 					<properties>
 						<property>
 							<name>width</name>
-							<value></value>
+							<value>100</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>height</name>
-							<value></value>
+							<value>4</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>autoGrow</name>
-							<value>false</value>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
@@ -257,7 +257,7 @@
 		<section>
 			<title>Button</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
@@ -350,7 +350,7 @@
 		<section>
 			<title>Images</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>checkbox</type>
