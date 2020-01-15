@@ -4,7 +4,7 @@
 	<objectType>component</objectType>
 	<content-type>/component/scroller</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
-	<quickCreate>false</quickCreate>
+	<quickCreate>true</quickCreate>
 	<quickCreatePath></quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
