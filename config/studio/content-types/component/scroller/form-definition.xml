@@ -254,7 +254,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>images</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
@@ -276,5 +276,23 @@
 			</fields>
 		</section>
 	</sections>
-	<datasources>	</datasources>
+	<datasources>				<datasource>
+					<type>img-repository-upload</type>
+					<id>images</id>
+					<title>Images</title>
+					<interface>image</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/img</value>
+								<type>undefined</type>
+						</property>
+						<property>
+							<name>useSearch</name>
+							<value>true</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
+	</datasources>
 </form>
