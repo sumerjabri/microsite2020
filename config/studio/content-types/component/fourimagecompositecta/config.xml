@@ -1,4 +1,4 @@
-<content-type name="/component/threeimagecompositecta" is-wcm-type="true">
+<content-type name="/component/fourimagecompositecta" is-wcm-type="true">
 	<label>Four-image Composite CTA</label>
 	<form>/component/fourimagecompositecta</form>
 	<form-path>simple</form-path>
