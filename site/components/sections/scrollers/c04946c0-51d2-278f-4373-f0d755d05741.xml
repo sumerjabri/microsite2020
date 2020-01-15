@@ -10,16 +10,23 @@
 	<internal-name>Trusted By Companies</internal-name>
 	<title_s>Trusted By Companies</title_s>
 	<images_o item-list="true">	<item>	<image_s>/static-assets/img/client-1-color.png</image_s>
+	<alttext_s>Client 1</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-2-color.png</image_s>
+	<alttext_s>Client 2</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-3-color.png</image_s>
+	<alttext_s>Client 3</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-4-color.png</image_s>
+	<alttext_s>Client 4</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-5-color.png</image_s>
+	<alttext_s>Client 5</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-6-color.png</image_s>
+	<alttext_s>Client 6</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-7-color.png</image_s>
+	<alttext_s>Seventh Client</alttext_s>
 	</item></images_o>
 	<createdDate>2020-01-15T01:31:53.572Z</createdDate>
 	<createdDate_dt>2020-01-15T01:31:53.572Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T02:08:36.485Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T02:08:36.485Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T02:16:08.607Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T02:16:08.607Z</lastModifiedDate_dt>
 	<description_html>&lt;p&gt;Rapidiously &lt;span style="color: #e74c3c;"&gt;&lt;em&gt;&lt;strong&gt;morph&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt; transparent internal or "organic" sources whereas resource sucking e-business. Conveniently innovate compelling internal.&lt;/p&gt;</description_html>
 </component>
