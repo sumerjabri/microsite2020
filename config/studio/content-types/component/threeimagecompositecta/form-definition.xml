@@ -4,7 +4,7 @@
 	<objectType>component</objectType>
 	<content-type>/component/threeimagecompositecta</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
-	<quickCreate>false</quickCreate>
+	<quickCreate>true</quickCreate>
 	<quickCreatePath>/site/components/sections/ctas</quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
