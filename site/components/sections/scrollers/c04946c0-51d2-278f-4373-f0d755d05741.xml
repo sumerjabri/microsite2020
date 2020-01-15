@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/scroller</content-type>
+	<display-template>/templates/web/components/scroller.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c049</objectGroupId>
+	<objectId>c04946c0-51d2-278f-4373-f0d755d05741</objectId>
+	<file-name>c04946c0-51d2-278f-4373-f0d755d05741.xml</file-name>
+	<internal-name>Trusted By Companies</internal-name>
+	<title_s>Trusted By Companies</title_s>
+	<subtitle_s/>
+	<images_o item-list="true">	<item>	<image_s/>
+	</item></images_o>
+	<createdDate>2020-01-15T01:31:53.572Z</createdDate>
+	<createdDate_dt>2020-01-15T01:31:53.572Z</createdDate_dt>
+	<lastModifiedDate>2020-01-15T01:31:53.572Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T01:31:53.572Z</lastModifiedDate_dt>
+</component>
