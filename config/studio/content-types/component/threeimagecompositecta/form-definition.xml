@@ -262,9 +262,9 @@
 				<field>
 					<type>input</type>
 					<id>text_s</id>
-					<iceId>button</iceId>
+					<iceId>cta</iceId>
 					<title>Text</title>
-					<description></description>
+					<description>Enter the text of the main call to action button</description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
@@ -305,7 +305,7 @@
 				<field>
 					<type>input</type>
 					<id>target_s</id>
-					<iceId>button</iceId>
+					<iceId>cta</iceId>
 					<title>Target</title>
 					<description>Enter the URL that is the destination of the call to action.</description>
 					<defaultValue></defaultValue>
