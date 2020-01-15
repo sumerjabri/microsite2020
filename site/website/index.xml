@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-<content-type>/page/landingpage</content-type>
-<display-template>/templates/web/landingpage.ftl</display-template>
-<no-template-required/>
-<merge-strategy>inherit-levels</merge-strategy>
-<objectGroupId>8d7f</objectGroupId>
-<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-<file-name>index.xml</file-name>
-<internal-name>Landing Page 4</internal-name>
-<title_s>Microsite 2020</title_s>
-<placeInNav>false</placeInNav>
-<orderDefault_f>-1</orderDefault_f>
-<description_t>Landing page 4 from the Microsite 2020 site blueprint from Function1.</description_t>
-<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/sections/ctas/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
+	<content-type>/page/landingpage</content-type>
+	<display-template>/templates/web/landingpage.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<title_s>Microsite 2020</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<description_t>Landing page 4 from the Microsite 2020 site blueprint from Function1.</description_t>
+	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/sections/ctas/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
 	<value>Home Hero 2</value>
 	<include>/site/components/sections/ctas/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</include>
 	<disableFlattening>false</disableFlattening>
-</item>	<item datasource="sectionComponents">	<key>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
 	<value>Trusted By Companies</value>
 	<include>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
-</item></sections_o>
-<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
-</item>	<item>	<keyword_s>landing page</keyword_s>
-</item>	<item>	<keyword_s>function1</keyword_s>
-</item>	<item>	<keyword_s>sections</keyword_s>
-</item>	<item>	<keyword_s>responsive</keyword_s>
-</item></keywords_o>
-<createdDate>2020-01-14T23:48:14.728Z</createdDate>
-<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-<lastModifiedDate>2020-01-15T04:38:34.250Z</lastModifiedDate>
-<lastModifiedDate_dt>2020-01-15T04:38:34.250Z</lastModifiedDate_dt>
+	</item></sections_o>
+	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
+	</item>	<item>	<keyword_s>landing page</keyword_s>
+	</item>	<item>	<keyword_s>function1</keyword_s>
+	</item>	<item>	<keyword_s>sections</keyword_s>
+	</item>	<item>	<keyword_s>responsive</keyword_s>
+	</item></keywords_o>
+	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
+	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
+	<lastModifiedDate>2020-01-15T06:37:00.768Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T06:37:00.768Z</lastModifiedDate_dt>
+	<folder-name/>
 </page>
