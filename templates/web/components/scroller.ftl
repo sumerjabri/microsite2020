@@ -15,7 +15,7 @@
             </div>
             <div class="row align-items-center">
                 <div class="col-md-12">
-                    <div class="owl-carousel owl-theme clients-carousel dot-indicator">
+                    <div class="owl-carousel owl-theme clients-carousel dot-indicator" <@studio.iceAttr iceGroup="images" label="Images" />>
                         <div class="item single-client">
                             <img src="/static-assets/img/client-5-color.png" alt="client logo" class="client-img">
                         </div>
