@@ -356,7 +356,7 @@
 					<type>checkbox</type>
 					<id>includeFloatingDots_b</id>
 					<iceId>images</iceId>
-					<title>IncludeFloatingDots</title>
+					<title>Include Floating Dots</title>
 					<description>Check this box to display floating dots on the call to action.</description>
 					<defaultValue></defaultValue>
 					<help></help>
