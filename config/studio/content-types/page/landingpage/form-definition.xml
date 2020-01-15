@@ -114,7 +114,7 @@
 		<section>
 			<title>SEO</title>
 			<description></description>
-			<defaultOpen>true</defaultOpen>
+			<defaultOpen>false</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
