@@ -96,6 +96,10 @@
 <!--body content wrap start-->
 <div class="main">
 
+    <#list model.sections_o.item as section>
+        <@renderComponent component=section />
+    </#list>  
+
     <!--hero section start-->
     <section class="hero-section hero-section-2 ptb-100">
         <div class="circles">
