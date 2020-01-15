@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!--client section start-->
-    <section class="client-section ptb-100">
+    <section class="client-section ptb-100" <@studio.iceAttr iceGroup="visible" path=model.storeUrl label="${model.title_s}" />>
         <div class="container">
             <!--clients logo start-->
             <div class="row justify-content-center">
