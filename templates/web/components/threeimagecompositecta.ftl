@@ -1,39 +1,50 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!--hero section start-->
 <section class="hero-section hero-section-2 ptb-100">
-    <div class="circles">
-        <div class="point animated-point-1"></div>
-        <div class="point animated-point-2"></div>
-        <div class="point animated-point-3"></div>
-        <div class="point animated-point-4"></div>
-        <div class="point animated-point-5"></div>
-        <div class="point animated-point-6"></div>
-        <div class="point animated-point-7"></div>
-        <div class="point animated-point-8"></div>
-        <div class="point animated-point-9"></div>
-    </div>
+    <#if model.includeFloatingDots_b>
+        <div class="circles">
+            <div class="point animated-point-1"></div>
+            <div class="point animated-point-2"></div>
+            <div class="point animated-point-3"></div>
+            <div class="point animated-point-4"></div>
+            <div class="point animated-point-5"></div>
+            <div class="point animated-point-6"></div>
+            <div class="point animated-point-7"></div>
+            <div class="point animated-point-8"></div>
+            <div class="point animated-point-9"></div>
+        </div>
+    </#if>
     <div class="container">
         <div class="row align-items-center justify-content-between">
             <div class="col-md-6 col-lg-6">
-                <div class="hero-content-left ptb-100 text-white">
-                    <h1 class="text-white"><span>Best way to connect</span> with your customers</h1>
-                    <p class="lead">Conveniently generate multifunctional markets and B2C vortals. Uniquely enable
-                        inexpensive materials rather than sticky products.</p>
+                <div class="hero-content-left ptb-100 text-white" <@studio.iceAttr iceGroup="cta" label="Call to action" />>
+                    <h1 class="text-white"><#if model.title_s??><span>${model.title_s}</span></#if> <#if model.subtitle_s??>${model.subtitle_s}</#if></h1>
+                    <p class="lead"><#if model.description_html??>${model.description_html}</#if></p>
 
-                    <a href="#" class="btn app-store-btn">Contact with us</a>
+                    <#if model.text_s?? && model.target_s??><a href="${model.target_s}" class="btn app-store-btn">${model.text_s}</a></#if>
                 </div>
             </div>
             <div class="col-md-6 col-lg-5">
-                <div class="hero-animation-img">
-                    <img class="img-fluid d-block animation-one" src="/static-assets/img/hero-animation-04.svg"
-                         alt="animation image">
-                    <img class="img-fluid d-none d-lg-block animation-two"
-                         src="/static-assets/img/hero-animation-01.svg" alt="animation image" width="120">
-                    <img class="img-fluid d-none d-lg-block animation-three"
-                         src="/static-assets/img/hero-animation-02.svg" alt="animation image" width="120">
-                    <img class="img-fluid d-none d-lg-block animation-four" src="/static-assets/img/hero-animation-03.svg"
-                         alt="animation image" width="230">
+                <#if model.images_o??>
+                <div class="hero-animation-img" <@studio.iceAttr iceGroup="images" label="Images" />>
+                    <#list model.images_o.item as item>
+                        <img src="${item.image_s}" alt="${item.alttext_s}"
+                                <#if item?counter == 1>
+                                    class="img-fluid d-block animation-one"
+                                </#if>
+                                <#if item?counter == 2>
+                                    class="img-fluid d-none d-lg-block animation-two" width="120"
+                                </#if>
+                                <#if item?counter == 3>
+                                    class="img-fluid d-none d-lg-block animation-three" width="120"
+                                </#if>
+                                <#if item?counter == 4>
+                                    class="img-fluid d-none d-lg-block animation-four" width="230"
+                                </#if>
+                        >
+                    </#list>
                 </div>
+                </#if>
             </div>
         </div>
     </div>
