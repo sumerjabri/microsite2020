@@ -10,16 +10,21 @@
 	<internal-name>Home Hero 2</internal-name>
 	<createdDate>2020-01-15T02:37:00.802Z</createdDate>
 	<createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T05:50:19.456Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T05:50:19.456Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T06:01:39.089Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T06:01:39.089Z</lastModifiedDate_dt>
 	<title_s>Best way to connect</title_s>
 	<subtitle_s>with your customers</subtitle_s>
 	<text_s>Connect with us</text_s>
 	<target_s>https://function1.com/</target_s>
 	<includeFloatingDots_b>true</includeFloatingDots_b>
-	<floatingImage1_s>/static-assets/img/hero-animation-01.png</floatingImage1_s>
-	<floatingImage2_s>/static-assets/img/hero-animation-02.png</floatingImage2_s>
-	<floatingImage3_s>/static-assets/img/hero-animation-03.png</floatingImage3_s>
 	<description_html>&lt;p&gt;Conveniently generate multifunctional markets and B2C vortals. Uniquely enable inexpensive materials rather than sticky products.&lt;/p&gt;</description_html>
-	<floatingImage4_s>/static-assets/img/hero-animation-04.png</floatingImage4_s>
+	<images_o item-list="true">	<item>	<alttext_s>Hero Animation 1</alttext_s>
+	<image_s>/static-assets/img/hero-animation-01.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/hero-animation-02.png</image_s>
+	<alttext_s>Hero Animation 2</alttext_s>
+	</item>	<item>	<image_s>/static-assets/img/hero-animation-03.png</image_s>
+	<alttext_s>Hero Animation 3</alttext_s>
+	</item>	<item>	<image_s>/static-assets/img/hero-animation-04.png</image_s>
+	<alttext_s>Hero Animation 4</alttext_s>
+	</item></images_o>
 </component>
