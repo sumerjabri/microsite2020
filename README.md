@@ -15,6 +15,9 @@ Function1, Inc.
 https://function1.com
 #
 
+### Version 0.1.1 January 15, 2020
+Blueprint file update.
+
 ### Version 0.1.0 January 14, 2020
 Initial release. 
 Basic infrastructure setup.
