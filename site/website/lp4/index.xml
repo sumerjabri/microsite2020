@@ -17,6 +17,10 @@
 	<value>Trusted By Companies</value>
 	<include>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/6215f09e-35b1-44d6-7573-1a5dbefb5ed0.xml</key>
+	<value>Home Hero</value>
+	<include>/site/components/sections/6215f09e-35b1-44d6-7573-1a5dbefb5ed0.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
@@ -26,6 +30,6 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T01:46:15.262Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T01:46:15.262Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T02:33:35.039Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T02:33:35.039Z</lastModifiedDate_dt>
 </page>
