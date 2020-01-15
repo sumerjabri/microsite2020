@@ -4,7 +4,7 @@
 	<objectType>page</objectType>
 	<content-type>/page/landingpage</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
-	<quickCreate>false</quickCreate>
+	<quickCreate>true</quickCreate>
 	<quickCreatePath></quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
@@ -114,7 +114,7 @@
 		<section>
 			<title>SEO</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>input</type>
@@ -273,7 +273,7 @@
 		<section>
 			<title>Sections</title>
 			<description></description>
-			<defaultOpen>false</defaultOpen>
+			<defaultOpen>true</defaultOpen>
 			<fields>
 				<field>
 					<type>node-selector</type>
