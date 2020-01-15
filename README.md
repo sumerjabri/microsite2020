@@ -21,6 +21,15 @@ Function1, Inc.
 https://function1.com
 #
 
+### Known Issues
+- Site defaults need to be configured
+- Many more section types need to be added
+- Automatically building the navigation by section is not yet hooked up
+
+### Version 0.2.5 January 15, 2020
+Studio performance enhancement by removing extra studio tools inclusions.
+Incremental improvements in opengraph field population.
+
 ### Version 0.2.4 January 15, 2020
 Marketplace deployment fix.
 
@@ -52,7 +61,3 @@ Several initial section models.
 Basic artwork.
 New artwork and more landing page sections are coming in the next release.
  
-### Known Issues
-- Text need to be replaced with Lorem Ipsum
-- Many more section types need to be added
-- Automatically building the navigation by section is not yet hooked up

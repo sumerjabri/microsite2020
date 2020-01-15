@@ -1,4 +1,3 @@
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <section id="${model.sectionid_s}" class="promo-section ptb-100">
     <div class="container">
         <div class="row justify-content-center">
@@ -28,4 +27,3 @@
         </div>
     </div>
 </section>
-<@studio.toolSupport/>

@@ -11,8 +11,8 @@
 
     <meta property="og:site_name" content=""/> <!-- website name -->
     <meta property="og:site" content=""/> <!-- website link -->
-    <meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
-    <meta property="og:description" content=""/> <!-- description shown in the actual shared post -->
+    <meta property="og:title" content="${model.title_s}"/> <!-- title shown in the actual shared post -->
+    <meta property="og:description" content="${model.description_t}"/> <!-- description shown in the actual shared post -->
     <meta property="og:image" content=""/> <!-- image link, make sure it's jpg -->
     <meta property="og:url" content=""/> <!-- where do you want your post to link to -->
     <meta property="og:type" content="article"/>
@@ -32,7 +32,6 @@
     <link rel="stylesheet" href="/static-assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="/static-assets/css/style.css">
     <link rel="stylesheet" href="/static-assets/css/responsive.css">
-
 </head>
 <body>
 
@@ -64,7 +63,6 @@
         <@renderComponent component=section />
     </#list>
 </div>
-
 
 <script src="/static-assets/js/jquery-3.4.1.min.js"></script>
 <script src="/static-assets/js/popper.min.js"></script>
