@@ -10,8 +10,8 @@
 	<internal-name>Home Hero 2</internal-name>
 	<createdDate>2020-01-15T02:37:00.802Z</createdDate>
 	<createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T06:13:17.117Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T06:13:17.117Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T06:15:40.016Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T06:15:40.016Z</lastModifiedDate_dt>
 	<title_s>Best way to connect</title_s>
 	<subtitle_s>with your customers</subtitle_s>
 	<text_s>Connect with us</text_s>
@@ -23,12 +23,12 @@
 	<clazz_s>class="img-fluid d-block animation-one"</clazz_s>
 	</item>	<item>	<alttext_s>Hero Animation 1</alttext_s>
 	<image_s>/static-assets/img/hero-animation-01.png</image_s>
-	<clazz_s>class="img-fluid d-none d-lg-block animation-two"</clazz_s>
+	<clazz_s>class="img-fluid d-none d-lg-block animation-two" width="120"</clazz_s>
 	</item>	<item>	<image_s>/static-assets/img/hero-animation-02.png</image_s>
 	<alttext_s>Hero Animation 2</alttext_s>
-	<clazz_s>class="img-fluid d-none d-lg-block animation-three"</clazz_s>
+	<clazz_s>class="img-fluid d-none d-lg-block animation-three" width="120"</clazz_s>
 	</item>	<item>	<image_s>/static-assets/img/hero-animation-03.png</image_s>
 	<alttext_s>Hero Animation 3</alttext_s>
-	<clazz_s>class="img-fluid d-none d-lg-block animation-four"</clazz_s>
+	<clazz_s>class="img-fluid d-none d-lg-block animation-four" width="230"</clazz_s>
 	</item></images_o>
 </component>
