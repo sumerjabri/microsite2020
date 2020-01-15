@@ -1,6 +1,4 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-
-<!--about us section start-->
 <section id="about" class="about-us ptb-100 gray-light-bg">
     <div class="container">
         <div class="row align-items-center justify-content-between">
@@ -32,5 +30,4 @@
         </div>
     </div>
 </section>
-<!--about us section end-->
 <@studio.toolSupport/>

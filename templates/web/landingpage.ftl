@@ -8,7 +8,7 @@
 
     <!-- SEO Meta description -->
     <meta name="description" content="${model.description_t}" />
-    <meta name="author" content="ThemeTags">
+    <meta name="author" content="Function1">
 
     <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
     <meta property="og:site_name" content=""/> <!-- website name -->
@@ -100,15 +100,7 @@
         <@renderComponent component=section />
     </#list>
 
-    <hr /><hr />
-    <hr /><hr />
-    <hr /><hr />
-
-
-
-
-
-    <!--features section start-->
+<!--
     <section id="features" class="feature-section ptb-100">
         <div class="container">
             <div class="row align-items-center justify-content-between">
@@ -256,9 +248,7 @@
             </div>
         </div>
     </section>
-    <!--features section end-->
 
-    <!--our video promo section start-->
     <section class="video-promo ptb-100 background-img"
              style="background: url('/static-assets/img/hero-bg-1.jpg')no-repeat center center / cover">
         <div class="container">
@@ -279,9 +269,7 @@
             </div>
         </div>
     </section>
-    <!--our video promo section end-->
 
-    <!--our pricing packages section start-->
     <section id="pricing" class="package-section gray-light-bg ptb-100">
         <div class="container">
             <div class="row justify-content-center">
@@ -373,7 +361,6 @@
                         Contact us
                     </a></p>
             </div>
-            <!--faq start-->
             <div class="row pt-5">
                 <div class="col-md-6">
                     <div class="single-faq">
@@ -420,12 +407,9 @@
                     </div>
                 </div>
             </div>
-            <!--faq end-->
         </div>
     </section>
-    <!--our pricing packages section end-->
 
-    <!--testimonial section start-->
     <section class="testimonial-section ptb-100">
         <div class="container">
             <div class="row justify-content-between align-items-center">
@@ -520,9 +504,7 @@
             </div>
         </div>
     </section>
-    <!--testimonial section end-->
 
-    <!--screenshots section start-->
     <section id="screenshots" class="screenshots-section ptb-100 gray-light-bg">
         <div class="container">
             <div class="row justify-content-center">
@@ -533,7 +515,6 @@
                     </div>
                 </div>
             </div>
-            <!--start app screen carousel-->
             <div class="screen-slider-content mt-5">
                 <div class="screenshot-frame"></div>
                 <div class="screen-carousel owl-carousel owl-theme dot-indicator">
@@ -545,14 +526,11 @@
                     <img src="/static-assets/img/06.png" class="img-fluid" alt="screenshots">
                 </div>
             </div>
-            <!--end app screen carousel-->
 
         </div>
     </section>
-    <!--screenshots section end-->
 
 
-    <!--our team section start-->
     <section id="team" class="team-member-section ptb-100">
         <div class="container">
             <div class="row justify-content-center">
@@ -637,10 +615,8 @@
             </div>
         </div>
     </section>
-    <!--our team section end-->
 
 
-    <!--contact us section start-->
     <section id="contact" class="contact-us gray-light-bg ptb-100">
         <div class="container">
             <div class="row">
@@ -713,14 +689,11 @@
             </div>
         </div>
     </section>
-    <!--contact us section end-->
-
+-->
     
 
 </div>
-<!--body content wrap end-->
-
-<!--shape image start-->
+<!--
 <div class="shape-img subscribe-wrap">
     <img src="/static-assets/img/footer-top-shape.png" alt="footer shape" class="img-fluid">
     <div class="container">
@@ -737,12 +710,10 @@
         </div>
     </div>
 </div>
-<!--shape image end-->
-
-<!--footer section start-->
+-->
+<!--
 <footer class="footer-section">
 
-    <!--footer top start-->
     <div class="footer-top pt-150 pb-5 background-img-2"
          style="background: url('/static-assets/img/footer-bg.png')no-repeat center top / cover">
         <div class="container">
@@ -805,9 +776,7 @@
             </div>
         </div>
     </div>
-    <!--footer top end-->
 
-    <!--footer copyright start-->
     <div class="footer-bottom gray-light-bg pt-4 pb-4">
         <div class="container">
             <div class="row text-center justify-content-center">
@@ -818,10 +787,8 @@
             </div>
         </div>
     </div>
-    <!--footer copyright end-->
 </footer>
-<!--footer section end-->
-
+-->
 
 <!--jQuery-->
 <script src="/static-assets/js/jquery-3.4.1.min.js"></script>

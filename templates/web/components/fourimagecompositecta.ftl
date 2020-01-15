@@ -1,5 +1,4 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<!--hero section start-->
 <section class="hero-section hero-section-2 ptb-100">
     <#if model.includeFloatingDots_b>
         <div class="circles">
@@ -49,5 +48,4 @@
         </div>
     </div>
 </section>
-<!--hero section end-->
 <@studio.toolSupport/>

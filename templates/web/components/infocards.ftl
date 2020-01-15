@@ -1,5 +1,4 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<!--promo section start-->
 <section class="promo-section ptb-100">
     <div class="container">
         <div class="row justify-content-center">
@@ -29,5 +28,4 @@
         </div>
     </div>
 </section>
-<!--promo section end-->
 <@studio.toolSupport/>
