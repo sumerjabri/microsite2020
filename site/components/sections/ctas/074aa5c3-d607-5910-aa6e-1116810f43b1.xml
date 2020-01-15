@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/threeimagecompositecta</content-type>
+	<display-template>/templates/web/components/threeimagecompositecta.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>074a</objectGroupId>
+	<objectId>074aa5c3-d607-5910-aa6e-1116810f43b1</objectId>
+	<file-name>074aa5c3-d607-5910-aa6e-1116810f43b1.xml</file-name>
+	<internal-name>Home Hero 2</internal-name>
+	<createdDate>2020-01-15T02:37:00.802Z</createdDate>
+	<createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
+	<lastModifiedDate>2020-01-15T02:37:00.802Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T02:37:00.802Z</lastModifiedDate_dt>
+</component>
