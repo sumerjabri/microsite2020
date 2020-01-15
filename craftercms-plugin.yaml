@@ -26,10 +26,10 @@ plugin:
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
-        url: /static-assets/img/blueprint/microsite2020-screenshot-1.png
+        url: /static-assets/img/blueprint/microsite2020-screenshot-1a.png
       - title: Key Points Section
         description: View of the key points section, viewed within Crafter CMS with page builder options
-        url: /static-assets/img/blueprint/microsite2020-screenshot-2.png
+        url: /static-assets/img/blueprint/microsite2020-screenshot-2a.png
   developer:
     company:
       name: Function1

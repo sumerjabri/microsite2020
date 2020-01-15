@@ -21,6 +21,9 @@ Function1, Inc.
 https://function1.com
 #
 
+### Version 0.2.2 January 15, 2020
+New screenshots.
+
 ### Version 0.2.1 January 15, 2020
 New screenshots.
 
