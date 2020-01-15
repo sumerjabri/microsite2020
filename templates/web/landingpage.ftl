@@ -23,29 +23,29 @@
     <title>${model.title_s}</title>
 
     <!--favicon icon-->
-    <link rel="icon" href="img/favicon.png" type="image/png" sizes="16x16">
+    <link rel="icon" href="/static-assets/img/favicon.png" type="image/png" sizes="16x16">
 
     <!--google fonts-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7COpen+Sans&display=swap"
           rel="stylesheet">
 
     <!--Bootstrap css-->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static-assets/css/bootstrap.min.css">
     <!--Magnific popup css-->
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="/static-assets/css/magnific-popup.css">
     <!--Themify icon css-->
-    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="/static-assets/css/themify-icons.css">
     <!--animated css-->
-    <link rel="stylesheet" href="css/animate.min.css">
+    <link rel="stylesheet" href="/static-assets/css/animate.min.css">
     <!--ytplayer css-->
-    <link rel="stylesheet" href="css/jquery.mb.YTPlayer.min.css">
+    <link rel="stylesheet" href="/static-assets/css/jquery.mb.YTPlayer.min.css">
     <!--Owl carousel css-->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/static-assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/static-assets/css/owl.theme.default.min.css">
     <!--custom css-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/static-assets/css/style.css">
     <!--responsive css-->
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="/static-assets/css/responsive.css">
 
 </head>
 <body>
@@ -55,8 +55,7 @@
     <!--start navbar-->
     <nav class="navbar navbar-expand-lg fixed-top bg-transparent">
         <div class="container">
-            <a class="navbar-brand" href="index-4.html"><img src="img/logo-white-1x.png" width="120" alt="logo"
-                                                             class="img-fluid"></a>
+            <a class="navbar-brand" href="/"><img src="/static-assets/img/logo-white-1x.png" width="120" alt="logo" class="img-fluid"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="ti-menu"></span>
@@ -64,19 +63,8 @@
 
             <div class="collapse navbar-collapse main-menu" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link page-scroll dropdown-toggle" href="#" id="navbarDropdownHome" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Home
-                        </a>
-                        <div class="dropdown-menu submenu" aria-labelledby="navbarDropdownHome">
-                            <a class="dropdown-item" href="index.html">Demo Template 1</a>
-                            <a class="dropdown-item" href="index-2.html">Demo Template 2</a>
-                            <a class="dropdown-item" href="index-3.html">Demo Template 3</a>
-                            <a class="dropdown-item" href="index-4.html">Demo Template 4</a>
-                            <a class="dropdown-item" href="index-5.html">Demo Template 5</a>
-                            <a class="dropdown-item" href="index-6.html">Demo Template 6</a>
-                        </div>
+                    <li class="nav-item">
+                        <a class="nav-link page-scroll" href="#">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#about">About</a>
@@ -89,40 +77,6 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#screenshots">Screenshots</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link page-scroll dropdown-toggle" href="#" id="navbarDropdownPage" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Pages
-                        </a>
-                        <div class="dropdown-menu submenu" aria-labelledby="navbarDropdownPage">
-                            <a class="dropdown-item" href="basic-login.html">Login Page 1</a>
-                            <a class="dropdown-item" href="login.html">Login Page 2</a>
-                            <a class="dropdown-item" href="basic-sign-up.html">Signup Page 1</a>
-                            <a class="dropdown-item" href="sign-up.html">Signup Page 2</a>
-                            <a class="dropdown-item" href="password-reset.html">Password Reset</a>
-                            <a class="dropdown-item" href="change-password.html">Change Password</a>
-                            <a class="dropdown-item" href="download.html">Download Page</a>
-                            <a class="dropdown-item" href="review.html">Review Page</a>
-                            <a class="dropdown-item" href="faq.html">FAQ Page</a>
-                            <a class="dropdown-item" href="404.html">404 Page</a>
-                            <a class="dropdown-item" href="coming-soon.html">Coming Soon</a>
-                            <a class="dropdown-item" href="thank-you.html">Thank You</a>
-                            <a class="dropdown-item" href="team.html">Team Page <span class="badge badge-danger badge-pill ml-2">New</span></a>
-                            <a class="dropdown-item" href="team-single.html">Team Single <span class="badge badge-danger badge-pill ml-2">New</span></a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link page-scroll dropdown-toggle" href="#" id="navbarBlogPage" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Blog <span class="custom-nav-badge badge badge-danger badge-pill">New</span>
-                        </a>
-
-                        <div class="dropdown-menu submenu" aria-labelledby="navbarBlogPage">
-                            <a class="dropdown-item" href="blog-default.html">Blog Grid</a>
-                            <a class="dropdown-item" href="blog-left-sidebar.html">Blog Left Sidebar</a>
-                            <a class="dropdown-item" href="blog-single-right-sidebar.html">Details Right Sidebar</a>
-                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#team">Team</a>
@@ -168,13 +122,13 @@
                 </div>
                 <div class="col-md-6 col-lg-5">
                     <div class="hero-animation-img">
-                        <img class="img-fluid d-block animation-one" src="img/hero-animation-04.svg"
+                        <img class="img-fluid d-block animation-one" src="/static-assets/img/hero-animation-04.svg"
                              alt="animation image">
                         <img class="img-fluid d-none d-lg-block animation-two"
-                             src="img/hero-animation-01.svg" alt="animation image" width="120">
+                             src="/static-assets/img/hero-animation-01.svg" alt="animation image" width="120">
                         <img class="img-fluid d-none d-lg-block animation-three"
-                             src="img/hero-animation-02.svg" alt="animation image" width="120">
-                        <img class="img-fluid d-none d-lg-block animation-four" src="img/hero-animation-03.svg"
+                             src="/static-assets/img/hero-animation-02.svg" alt="animation image" width="120">
+                        <img class="img-fluid d-none d-lg-block animation-four" src="/static-assets/img/hero-animation-03.svg"
                              alt="animation image" width="230">
                     </div>
                 </div>
@@ -242,7 +196,7 @@
                         <div class="single-feature mb-4">
                             <div class="icon-box-wrap d-flex align-items-center mb-2">
                                 <div class="mr-3 icon-box">
-                                    <img src="img/image-icon-1.png" alt="icon image" class="img-fluid">
+                                    <img src="/static-assets/img/image-icon-1.png" alt="icon image" class="img-fluid">
                                 </div>
                                 <p class="mb-0">Proactively syndicate open-source e-markets after low-risk high-yield
                                     synergy. Professionally
@@ -252,7 +206,7 @@
                         <div class="single-feature mb-4">
                             <div class="icon-box-wrap mb-2">
                                 <div class="mr-3 icon-box">
-                                    <img src="img/image-icon-2.png" alt="icon image" class="img-fluid">
+                                    <img src="/static-assets/img/image-icon-2.png" alt="icon image" class="img-fluid">
                                 </div>
                                 <p class="mb-0">Intrinsicly aggregate cutting-edge internal or "organic" sources through pandemic manufactured products. Synergistically.</p>
                             </div>
@@ -261,7 +215,7 @@
                         <div class="single-feature mb-4">
                             <div class="icon-box-wrap mb-2">
                                 <div class="mr-3 icon-box">
-                                    <img src="img/image-icon-3.png" alt="icon image" class="img-fluid">
+                                    <img src="/static-assets/img/image-icon-3.png" alt="icon image" class="img-fluid">
                                 </div>
                                 <p class="mb-0">Completely administrate empowered e-tailers after extensive experiences. Holisticly leverage existing quality networks.</p>
                             </div>
@@ -270,7 +224,7 @@
                         <div class="single-feature mb-4">
                             <div class="icon-box-wrap mb-2">
                                 <div class="mr-3 icon-box">
-                                    <img src="img/image-icon-4.png" alt="icon image" class="img-fluid">
+                                    <img src="/static-assets/img/image-icon-4.png" alt="icon image" class="img-fluid">
                                 </div>
                                 <p class="mb-0">Intrinsicly incentivize functionalized metrics whereas go forward networks. Collaboratively fabricate clicks-and-mortar intellectual.</p>
                             </div>
@@ -280,7 +234,7 @@
                 </div>
                 <div class="col-md-5">
                     <div class="about-content-right d-flex justify-content-center justify-content-lg-end justify-content-md-end">
-                        <img src="img/image-14.png" alt="about us" class="img-fluid">
+                        <img src="/static-assets/img/image-14.png" alt="about us" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -294,7 +248,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-4">
                     <div class="download-img d-flex align-bottom">
-                        <img src="img/image-10.png" alt="download" class="img-fluid">
+                        <img src="/static-assets/img/image-10.png" alt="download" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-7">
@@ -440,7 +394,7 @@
 
     <!--our video promo section start-->
     <section class="video-promo ptb-100 background-img"
-             style="background: url('img/hero-bg-1.jpg')no-repeat center center / cover">
+             style="background: url('/static-assets/img/hero-bg-1.jpg')no-repeat center center / cover">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-6">
@@ -480,7 +434,7 @@
                     <div class="card text-center single-pricing-pack">
                         <div class="pt-4"><h5>Basic</h5></div>
                         <div class="pricing-img mt-4">
-                            <img src="img/basic.svg" alt="pricing img" class="img-fluid">
+                            <img src="/static-assets/img/basic.svg" alt="pricing img" class="img-fluid">
                         </div>
                         <div class="card-header py-4 border-0 pricing-header">
                             <div class="h1 text-center mb-0">$<span class="price font-weight-bolder">29</span></div>
@@ -503,7 +457,7 @@
                     <div class="card popular-price text-center single-pricing-pack">
                         <div class="pt-4"><h5>Standard</h5></div>
                         <div class="pricing-img mt-4">
-                            <img src="img/standard.svg" alt="pricing img" class="img-fluid">
+                            <img src="/static-assets/img/standard.svg" alt="pricing img" class="img-fluid">
                         </div>
                         <div class="card-header py-4 border-0 pricing-header">
                             <div class="h1 text-center mb-0">$<span
@@ -528,7 +482,7 @@
                     <div class="card text-center single-pricing-pack">
                         <div class="pt-4"><h5>Unlimited</h5></div>
                         <div class="pricing-img mt-4">
-                            <img src="img/unlimited.svg" alt="pricing img" class="img-fluid">
+                            <img src="/static-assets/img/unlimited.svg" alt="pricing img" class="img-fluid">
                         </div>
                         <div class="card-header py-4 border-0 pricing-header">
                             <div class="h1 text-center mb-0">$<span class="price font-weight-bolder">39</span></div>
@@ -619,11 +573,11 @@
 
                         <div class="client-section-wrap d-flex flex-row align-items-center">
                             <ul class="list-inline">
-                                <li class="list-inline-item"><img src="img/client-1-color.png" width="85" alt="client"
+                                <li class="list-inline-item"><img src="/static-assets/img/client-1-color.png" width="85" alt="client"
                                                                   class="img-fluid"></li>
-                                <li class="list-inline-item"><img src="img/client-6-color.png" width="85" alt="client"
+                                <li class="list-inline-item"><img src="/static-assets/img/client-6-color.png" width="85" alt="client"
                                                                   class="img-fluid"></li>
-                                <li class="list-inline-item"><img src="img/client-3-color.png" width="85" alt="client"
+                                <li class="list-inline-item"><img src="/static-assets/img/client-3-color.png" width="85" alt="client"
                                                                   class="img-fluid"></li>
                             </ul>
                         </div>
@@ -635,7 +589,7 @@
                             <div class="testimonial-quote-wrap">
                                 <div class="media author-info mb-3">
                                     <div class="author-img mr-3">
-                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
+                                        <img src="/static-assets/img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
                                     </div>
                                     <div class="media-body">
                                         <h5 class="mb-0">John Charles</h5>
@@ -643,7 +597,7 @@
                                     </div>
                                 </div>
                                 <div class="client-say">
-                                    <p> <img src="img/quote.png" alt="quote" class="img-fluid"> Interactively optimize fully researched expertise vis-a-vis plug-and-play relationships. Intrinsicly develop viral core competencies for fully tested customer service. Enthusiastically create next-generation growth strategies and.</p>
+                                    <p> <img src="/static-assets/img/quote.png" alt="quote" class="img-fluid"> Interactively optimize fully researched expertise vis-a-vis plug-and-play relationships. Intrinsicly develop viral core competencies for fully tested customer service. Enthusiastically create next-generation growth strategies and.</p>
                                 </div>
                             </div>
                         </div>
@@ -651,7 +605,7 @@
                             <div class="testimonial-quote-wrap">
                                 <div class="media author-info mb-3">
                                     <div class="author-img mr-3">
-                                        <img src="img/client-2.jpg" alt="client" class="img-fluid rounded-circle">
+                                        <img src="/static-assets/img/client-2.jpg" alt="client" class="img-fluid rounded-circle">
                                     </div>
                                     <div class="media-body">
                                         <h5 class="mb-0">Arabella Ora</h5>
@@ -659,7 +613,7 @@
                                     </div>
                                 </div>
                                 <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid">  Rapidiously develop user friendly growth strategies after extensive initiatives. Conveniently grow innovative benefits through fully tested deliverables. Rapidiously utilize focused platforms through end-to-end schemas.</p>
+                                    <p><img src="/static-assets/img/quote.png" alt="quote" class="img-fluid">  Rapidiously develop user friendly growth strategies after extensive initiatives. Conveniently grow innovative benefits through fully tested deliverables. Rapidiously utilize focused platforms through end-to-end schemas.</p>
                                 </div>
                             </div>
                         </div>
@@ -667,7 +621,7 @@
                             <div class="testimonial-quote-wrap">
                                 <div class="media author-info mb-3">
                                     <div class="author-img mr-3">
-                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
+                                        <img src="/static-assets/img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
                                     </div>
                                     <div class="media-body">
                                         <h5 class="mb-0">Jeremy Jere</h5>
@@ -675,7 +629,7 @@
                                     </div>
                                 </div>
                                 <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid"> Objectively synthesize client-centered e-tailers for maintainable channels. Holisticly administrate customer directed vortals whereas tactical functionalities. Energistically monetize reliable imperatives through client-centric best practices. Collaboratively.</p>
+                                    <p><img src="/static-assets/img/quote.png" alt="quote" class="img-fluid"> Objectively synthesize client-centered e-tailers for maintainable channels. Holisticly administrate customer directed vortals whereas tactical functionalities. Energistically monetize reliable imperatives through client-centric best practices. Collaboratively.</p>
                                 </div>
                             </div>
                         </div>
@@ -683,7 +637,7 @@
                             <div class="testimonial-quote-wrap">
                                 <div class="media author-info mb-3">
                                     <div class="author-img mr-3">
-                                        <img src="img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
+                                        <img src="/static-assets/img/client-1.jpg" alt="client" class="img-fluid rounded-circle">
                                     </div>
                                     <div class="media-body">
                                         <h5 class="mb-0">John Charles</h5>
@@ -691,7 +645,7 @@
                                     </div>
                                 </div>
                                 <div class="client-say">
-                                    <p><img src="img/quote.png" alt="quote" class="img-fluid"> Enthusiastically innovate B2C data without clicks-and-mortar convergence. Monotonectally deliver compelling testing procedures vis-a-vis B2B testing procedures. Competently evisculate integrated resources whereas global processes. Enthusiastically.</p>
+                                    <p><img src="/static-assets/img/quote.png" alt="quote" class="img-fluid"> Enthusiastically innovate B2C data without clicks-and-mortar convergence. Monotonectally deliver compelling testing procedures vis-a-vis B2B testing procedures. Competently evisculate integrated resources whereas global processes. Enthusiastically.</p>
                                 </div>
                             </div>
                         </div>
@@ -717,12 +671,12 @@
             <div class="screen-slider-content mt-5">
                 <div class="screenshot-frame"></div>
                 <div class="screen-carousel owl-carousel owl-theme dot-indicator">
-                    <img src="img/01.png" class="img-fluid" alt="screenshots">
-                    <img src="img/02.png" class="img-fluid" alt="screenshots">
-                    <img src="img/03.png" class="img-fluid" alt="screenshots">
-                    <img src="img/04.png" class="img-fluid" alt="screenshots">
-                    <img src="img/05.png" class="img-fluid" alt="screenshots">
-                    <img src="img/06.png" class="img-fluid" alt="screenshots">
+                    <img src="/static-assets/img/01.png" class="img-fluid" alt="screenshots">
+                    <img src="/static-assets/img/02.png" class="img-fluid" alt="screenshots">
+                    <img src="/static-assets/img/03.png" class="img-fluid" alt="screenshots">
+                    <img src="/static-assets/img/04.png" class="img-fluid" alt="screenshots">
+                    <img src="/static-assets/img/05.png" class="img-fluid" alt="screenshots">
+                    <img src="/static-assets/img/06.png" class="img-fluid" alt="screenshots">
                 </div>
             </div>
             <!--end app screen carousel-->
@@ -749,7 +703,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-4.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="/static-assets/img/team-4.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -766,7 +720,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-1.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="/static-assets/img/team-1.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -783,7 +737,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-2.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="/static-assets/img/team-2.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -800,7 +754,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="single-team-member position-relative">
                         <div class="team-image">
-                            <img src="img/team-3.jpg" alt="Team Members" class="img-fluid rounded-circle">
+                            <img src="/static-assets/img/team-3.jpg" alt="Team Members" class="img-fluid rounded-circle">
                         </div>
                         <div class="team-info text-white rounded-circle d-flex flex-column align-items-center justify-content-center">
                             <h5 class="mb-0">Edna Mason</h5>
@@ -914,34 +868,34 @@
                 <div class="col-md-12">
                     <div class="owl-carousel owl-theme clients-carousel dot-indicator">
                         <div class="item single-client">
-                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-5-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-1-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-6-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-6-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-3-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-4-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-4-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-5-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-5-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-7-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-7-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-2-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-2-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-1-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-1-color.png" alt="client logo" class="client-img">
                         </div>
                         <div class="item single-client">
-                            <img src="img/client-3-color.png" alt="client logo" class="client-img">
+                            <img src="/static-assets/img/client-3-color.png" alt="client logo" class="client-img">
                         </div>
                     </div>
                 </div>
@@ -956,7 +910,7 @@
 
 <!--shape image start-->
 <div class="shape-img subscribe-wrap">
-    <img src="img/footer-top-shape.png" alt="footer shape" class="img-fluid">
+    <img src="/static-assets/img/footer-top-shape.png" alt="footer shape" class="img-fluid">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6">
@@ -978,12 +932,12 @@
 
     <!--footer top start-->
     <div class="footer-top pt-150 pb-5 background-img-2"
-         style="background: url('img/footer-bg.png')no-repeat center top / cover">
+         style="background: url('/static-assets/img/footer-bg.png')no-repeat center top / cover">
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-lg-3 mb-3 mb-lg-0">
                     <div class="footer-nav-wrap text-white">
-                        <img src="img/logo-white-1x.png" alt="footer logo" width="120" class="img-fluid mb-3">
+                        <img src="/static-assets/img/logo-white-1x.png" alt="footer logo" width="120" class="img-fluid mb-3">
                         <p>Holisticly empower premium architectures without value-added ideas. Seamlessly evolve
                             cross-platform experiences.</p>
 
@@ -1033,7 +987,7 @@
                 <div class="col-lg-3">
                     <div class="footer-nav-wrap text-white">
                         <h5 class="mb-3 text-white">Location</h5>
-                        <img src="img/map.png" alt="location map" class="img-fluid">
+                        <img src="/static-assets/img/map.png" alt="location map" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -1058,25 +1012,25 @@
 
 
 <!--jQuery-->
-<script src="js/jquery-3.4.1.min.js"></script>
+<script src="/static-assets/js/jquery-3.4.1.min.js"></script>
 <!--Popper js-->
-<script src="js/popper.min.js"></script>
+<script src="/static-assets/js/popper.min.js"></script>
 <!--Bootstrap js-->
-<script src="js/bootstrap.min.js"></script>
+<script src="/static-assets/js/bootstrap.min.js"></script>
 <!--Magnific popup js-->
-<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="/static-assets/js/jquery.magnific-popup.min.js"></script>
 <!--jquery easing js-->
-<script src="js/jquery.easing.min.js"></script>
+<script src="/static-assets/js/jquery.easing.min.js"></script>
 <!--jquery ytplayer js-->
-<script src="js/jquery.mb.YTPlayer.min.js"></script>
+<script src="/static-assets/js/jquery.mb.YTPlayer.min.js"></script>
 <!--wow js-->
-<script src="js/wow.min.js"></script>
+<script src="/static-assets/js/wow.min.js"></script>
 <!--owl carousel js-->
-<script src="js/owl.carousel.min.js"></script>
+<script src="/static-assets/js/owl.carousel.min.js"></script>
 <!--countdown js-->
-<script src="js/jquery.countdown.min.js"></script>
+<script src="/static-assets/js/jquery.countdown.min.js"></script>
 <!--custom js-->
-<script src="js/scripts.js"></script>
+<script src="/static-assets/js/scripts.js"></script>
 <@studio.toolSupport/>
 </body>
 </html>
