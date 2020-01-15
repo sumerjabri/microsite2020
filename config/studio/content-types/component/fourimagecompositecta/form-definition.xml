@@ -190,12 +190,12 @@
 					<properties>
 						<property>
 							<name>width</name>
-							<value>100</value>
+							<value>4</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>height</name>
-							<value>4</value>
+							<value>100</value>
 							<type>int</type>
 						</property>
 						<property>
