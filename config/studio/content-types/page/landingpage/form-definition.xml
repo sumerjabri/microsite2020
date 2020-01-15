@@ -349,12 +349,12 @@
 						</property>
 						<property>
 							<name>repoPath</name>
-							<value>/components/sections</value>
+							<value>/site/components/sections</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>browsePath</name>
-							<value>/components/sections</value>
+							<value>/site/components/sections</value>
 								<type>undefined</type>
 						</property>
 						<property>
