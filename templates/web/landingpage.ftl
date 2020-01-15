@@ -98,7 +98,11 @@
 
     <#list model.sections_o.item as section>
         <@renderComponent component=section />
-    </#list>  
+    </#list>
+
+    <hr /><hr />
+    <hr /><hr />
+    <hr /><hr />
 
     <!--hero section start-->
     <section class="hero-section hero-section-2 ptb-100">
