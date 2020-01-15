@@ -10,13 +10,13 @@
 	<internal-name>Home Hero 2</internal-name>
 	<createdDate>2020-01-15T02:37:00.802Z</createdDate>
 	<createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T03:05:58.322Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T03:05:58.322Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T03:13:24.335Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T03:13:24.335Z</lastModifiedDate_dt>
 	<title_s>The Title</title_s>
 	<subtitle_s>The Subtitle</subtitle_s>
 	<text_s>Button Text</text_s>
 	<target_s>https://function1.com/</target_s>
-	<includeFloatingDots_b>false</includeFloatingDots_b>
+	<includeFloatingDots_b>true</includeFloatingDots_b>
 	<floatingImage1_s/>
 	<floatingImage2_s/>
 	<floatingImage3_s/>
