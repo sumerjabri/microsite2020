@@ -1,11 +1,11 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!--client section start-->
-    <section class="client-section ptb-100" <@studio.iceAttr path=model.storeUrl label="${model.title_s}" />>
+    <section class="client-section ptb-100">
         <div class="container">
             <!--clients logo start-->
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <div class="section-heading text-center mb-5">
+                    <div class="section-heading text-center mb-5" <@studio.iceAttr path=model.storeUrl label="${model.title_s}" />>
                         <h2>${model.title_s}</h2>
                         <p class="lead">
                             ${model.description_html}
