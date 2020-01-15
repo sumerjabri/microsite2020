@@ -130,33 +130,68 @@
 					</constraints>
 				</field>
 				<field>
-					<type>input</type>
-					<id>subtitle_s</id>
+					<type>rte-tinymce5</type>
+					<id>description_html</id>
 					<iceId></iceId>
-					<title>Subtitle</title>
+					<title>Description</title>
 					<description></description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
-							<name>size</name>
-							<value>50</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>maxlength</name>
-							<value>255</value>
-							<type>int</type>
-						</property>
-						<property>
-							<name>readonly</name>
+							<name>width</name>
 							<value></value>
-							<type>boolean</type>
+							<type>int</type>
 						</property>
 						<property>
-							<name>tokenize</name>
+							<name>height</name>
+							<value></value>
+							<type>int</type>
+						</property>
+						<property>
+							<name>autoGrow</name>
 							<value>false</value>
 							<type>boolean</type>
+						</property>
+						<property>
+							<name>forceRootBlockPTag</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>forcePTags</name>
+							<value>true</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>forceBRTags</name>
+							<value>false</value>
+							<type>boolean</type>
+						</property>
+						<property>
+							<name>supportedChannels</name>
+							<value></value>
+							<type>supportedChannels</type>
+						</property>
+						<property>
+							<name>rteConfiguration</name>
+							<value>generic</value>
+							<type>string</type>
+						</property>
+						<property>
+							<name>imageManager</name>
+							<value></value>
+							<type>datasource:image</type>
+						</property>
+						<property>
+							<name>videoManager</name>
+							<value></value>
+							<type>datasource:video</type>
+						</property>
+						<property>
+							<name>fileManager</name>
+							<value></value>
+							<type>datasource:item</type>
 						</property>
 					</properties>
 					<constraints>
@@ -164,11 +199,6 @@
 							<name>required</name>
 							<value><![CDATA[]]></value>
 							<type>boolean</type>
-						</constraint>
-						<constraint>
-							<name>pattern</name>
-							<value><![CDATA[]]></value>
-							<type>string</type>
 						</constraint>
 					</constraints>
 				</field>
