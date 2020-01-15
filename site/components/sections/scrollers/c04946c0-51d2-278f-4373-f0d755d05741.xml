@@ -9,25 +9,25 @@
 	<file-name>c04946c0-51d2-278f-4373-f0d755d05741.xml</file-name>
 	<internal-name>Trusted By Companies</internal-name>
 	<title_s>Lorem ipsum dolor sit amet</title_s>
-	<images_o item-list="true">	<item>	<image_s>/static-assets/img/client-4-color.png</image_s>
+	<images_o item-list="true">	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/airbnb-logo.png</image_s>
 	<alttext_s>Client 4</alttext_s>
-	</item>	<item>	<image_s>/static-assets/img/client-1-color.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/amazon-logo.png</image_s>
 	<alttext_s>Client 1</alttext_s>
-	</item>	<item>	<image_s>/static-assets/img/client-2-color.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/paypal-logo.png</image_s>
 	<alttext_s>Client 2</alttext_s>
-	</item>	<item>	<image_s>/static-assets/img/client-3-color.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/shop-bot-logo.png</image_s>
 	<alttext_s>Client 3</alttext_s>
-	</item>	<item>	<image_s>/static-assets/img/client-5-color.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/slack-logo.png</image_s>
 	<alttext_s>Client 5</alttext_s>
-	</item>	<item>	<image_s>/static-assets/img/client-6-color.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/spotify-logo.png</image_s>
 	<alttext_s>Client 6</alttext_s>
-	</item>	<item>	<image_s>/static-assets/img/client-7-color.png</image_s>
+	</item>	<item>	<image_s>/static-assets/img/microsite2020/customer-logos/stripe-logo.png</image_s>
 	<alttext_s>Seventh Client</alttext_s>
 	</item></images_o>
 	<createdDate>2020-01-15T01:31:53.572Z</createdDate>
 	<createdDate_dt>2020-01-15T01:31:53.572Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T14:30:24.708Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T14:30:24.708Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T16:05:18.523Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T16:05:18.523Z</lastModifiedDate_dt>
 	<description_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;</description_html>
 	<sectionid_s>trusted</sectionid_s>
 </component>
