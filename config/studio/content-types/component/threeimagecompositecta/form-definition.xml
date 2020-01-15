@@ -378,7 +378,7 @@
 				<field>
 					<type>repeat</type>
 					<id>images_o</id>
-					<iceId></iceId>
+					<iceId>images</iceId>
 					<title>Images</title>
 					<description></description>
 					<minOccurs>0</minOccurs>
@@ -399,7 +399,7 @@
 				<field>
 					<type>image-picker</type>
 					<id>image_s</id>
-					<iceId></iceId>
+					<iceId>images</iceId>
 					<title>Image</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -447,7 +447,7 @@
 				<field>
 					<type>input</type>
 					<id>alttext_s</id>
-					<iceId></iceId>
+					<iceId>images</iceId>
 					<title>Alt Text</title>
 					<description></description>
 					<defaultValue></defaultValue>
