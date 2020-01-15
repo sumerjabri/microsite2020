@@ -6,7 +6,7 @@ descriptorVersion: 2
 # Describe the plugin
 plugin:
   type: blueprint
-  id: org.craftercms.blueprint.empty
+  id: com.function1.crafter.microsite2020
   name: Microsite 2020
   tags:
     - blueprint
