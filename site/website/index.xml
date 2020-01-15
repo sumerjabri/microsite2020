@@ -24,6 +24,10 @@
 	<value>Default Info Card Set</value>
 	<include>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/1f0f767a-311d-6e55-b993-ff46d5d776ba.xml</key>
+	<value>Key Points</value>
+	<include>/site/components/sections/1f0f767a-311d-6e55-b993-ff46d5d776ba.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
@@ -33,7 +37,7 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T06:50:54.344Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T06:50:54.344Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T07:12:21.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T07:12:21.845Z</lastModifiedDate_dt>
 	<folder-name/>
 </page>
