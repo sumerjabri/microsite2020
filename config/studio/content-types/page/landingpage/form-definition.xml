@@ -273,7 +273,7 @@
 		<section>
 			<title>Jump Nav</title>
 			<description>Navigation that scrolls down to the appropriate section</description>
-			<defaultOpen>true</defaultOpen>
+			<defaultOpen>false</defaultOpen>
 			<fields>
 				<field>
 					<type>repeat</type>
