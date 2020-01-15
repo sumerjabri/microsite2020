@@ -1,11 +1,11 @@
 <form>
-	<title>Info Cards</title>
+	<title>Info Card Set</title>
 	<description></description>
 	<objectType>component</objectType>
 	<content-type>/component/infocards</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
-	<quickCreate>false</quickCreate>
-	<quickCreatePath></quickCreatePath>
+	<quickCreate>true</quickCreate>
+	<quickCreatePath>/site/components/sections/infocardsets</quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
