@@ -540,5 +540,18 @@
 						</property>
 					</properties>
 				</datasource>
+				<datasource>
+					<type>file-browse-repo</type>
+					<id>allImages</id>
+					<title>All Images</title>
+					<interface>item</interface>
+					<properties>
+						<property>
+							<name>repoPath</name>
+							<value>/static-assets/img</value>
+								<type>undefined</type>
+						</property>
+					</properties>
+				</datasource>
 	</datasources>
 </form>
