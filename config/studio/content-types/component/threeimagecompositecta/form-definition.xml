@@ -5,7 +5,7 @@
 	<content-type>/component/threeimagecompositecta</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>false</quickCreate>
-	<quickCreatePath></quickCreatePath>
+	<quickCreatePath>/site/components/sections/ctas</quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
