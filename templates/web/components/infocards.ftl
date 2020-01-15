@@ -4,43 +4,28 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-md-8">
-                <div class="section-heading text-center mb-5">
-                    <h2>Why small business owners <br><span>love AppCo?</span></h2>
+                <div class="section-heading text-center mb-5" <@studio.iceAttr iceGroup="header" />>
+                    <h2>${model.title_s}<#if model.title_s?? && model.subtitle_s??><br></#if><span>${model.subtitle_s}</span></h2>
                     <p class="lead">
-                        Following reasons show advantages of adding AppCo to your lead pages, demos and
-                        checkouts
+                        <#if model.description_html??>${model.description_html}</#if>
                     </p>
                 </div>
             </div>
         </div>
-        <div class="row equal">
-            <div class="col-md-4 col-lg-4">
-                <div class="single-promo single-promo-hover single-promo-1 rounded text-center white-bg p-5 h-100">
-                    <div class="circle-icon mb-5">
-                        <span class="ti-vector text-white"></span>
+        <div class="row equal" <@studio.iceAttr iceGroup="cards" />>
+            <#if model.infocards_o??>
+                <#list model.infocards_o.item as item>
+                    <div class="col-md-4 col-lg-4">
+                        <div class="single-promo single-promo-hover single-promo-1 rounded text-center white-bg p-5 h-100">
+                            <div class="circle-icon mb-5">
+                                <span class="${item.icon_s} text-white"></span>
+                            </div>
+                            <h5>${item.title_s}</h5>
+                            <p>${item.subtitle_s}</p>
+                        </div>
                     </div>
-                    <h5>Clean Design</h5>
-                    <p>Increase sales by showing true dynamics of your website.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4">
-                <div class="single-promo single-promo-hover single-promo-1 rounded text-center white-bg p-5 h-100">
-                    <div class="circle-icon mb-5">
-                        <span class="ti-lock text-white"></span>
-                    </div>
-                    <h5>Secure Data</h5>
-                    <p>Build your online store’s trust using Social Proof & Urgency.</p>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4">
-                <div class="single-promo single-promo-hover single-promo-1 rounded text-center white-bg p-5 h-100">
-                    <div class="circle-icon mb-5">
-                        <span class="ti-eye text-white"></span>
-                    </div>
-                    <h5>Retina Ready</h5>
-                    <p>Realize importance of social proof in customer’s purchase decision.</p>
-                </div>
-            </div>
+                </#list>
+            </#if>
         </div>
     </div>
 </section>
