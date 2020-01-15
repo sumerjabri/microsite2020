@@ -20,13 +20,13 @@
 	<value>Trusted By Companies</value>
 	<include>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
-	<value>Default Info Card Set</value>
-	<include>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/keypoints/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</key>
 	<value>Key Points 2</value>
 	<include>/site/components/sections/keypoints/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
+	<value>Default Info Card Set</value>
+	<include>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
@@ -37,8 +37,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T14:44:54.209Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T14:44:54.209Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T15:32:35.414Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T15:32:35.414Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
