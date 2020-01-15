@@ -13,17 +13,19 @@
                     </div>
                 </div>
             </div>
-            <div class="row align-items-center">
-                <div class="col-md-12">
-                    <div class="owl-carousel owl-theme clients-carousel dot-indicator" <@studio.iceAttr iceGroup="images" label="Images" />>
-                        <#list model.images_o.item as img>
-                            <div class="item single-client">
-                                <img src="${img.image_s}" alt="${img.alttext_s}" class="client-img">
-                            </div>
-                        </#list>
+            <#if model.images_o>
+                <div class="row align-items-center">
+                    <div class="col-md-12">
+                        <div class="owl-carousel owl-theme clients-carousel dot-indicator" <@studio.iceAttr iceGroup="images" label="Images" />>
+                            <#list model.images_o.item as img>
+                                <div class="item single-client">
+                                    <img src="${img.image_s}" alt="${img.alttext_s}" class="client-img">
+                                </div>
+                            </#list>
+                        </div>
                     </div>
                 </div>
-            </div>
+            </#if>
             <!--clients logo end-->
         </div>
     </section>
