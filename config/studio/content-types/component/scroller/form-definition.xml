@@ -370,7 +370,7 @@
 					<properties>
 						<property>
 							<name>repoPath</name>
-							<value>/static-assets/img/**</value>
+							<value>/static-assets/img</value>
 								<type>undefined</type>
 						</property>
 						<property>
