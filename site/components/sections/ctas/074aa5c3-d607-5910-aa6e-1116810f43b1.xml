@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/threeimagecompositecta</content-type>
-	<display-template>/templates/web/components/threeimagecompositecta.ftl</display-template>
+	<content-type>/component/fourimagecompositecta</content-type>
+	<display-template>/templates/web/components/fourimagecompositecta.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>074a</objectGroupId>
@@ -20,15 +20,11 @@
 	<description_html>&lt;p&gt;Conveniently generate multifunctional markets and B2C vortals. Uniquely enable inexpensive materials rather than sticky products.&lt;/p&gt;</description_html>
 	<images_o item-list="true">	<item>	<image_s>/static-assets/img/hero-animation-04.png</image_s>
 	<alttext_s>Hero Animation 4</alttext_s>
-	<clazz_s>class="img-fluid d-block animation-one"</clazz_s>
 	</item>	<item>	<alttext_s>Hero Animation 1</alttext_s>
 	<image_s>/static-assets/img/hero-animation-01.png</image_s>
-	<clazz_s>class="img-fluid d-none d-lg-block animation-two" width="120"</clazz_s>
 	</item>	<item>	<image_s>/static-assets/img/hero-animation-02.png</image_s>
 	<alttext_s>Hero Animation 2</alttext_s>
-	<clazz_s>class="img-fluid d-none d-lg-block animation-three" width="120"</clazz_s>
 	</item>	<item>	<image_s>/static-assets/img/hero-animation-03.png</image_s>
 	<alttext_s>Hero Animation 3</alttext_s>
-	<clazz_s>class="img-fluid d-none d-lg-block animation-four" width="230"</clazz_s>
 	</item></images_o>
 </component>

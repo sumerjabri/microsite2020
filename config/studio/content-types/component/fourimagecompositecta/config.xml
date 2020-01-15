@@ -1,6 +1,6 @@
 <content-type name="/component/threeimagecompositecta" is-wcm-type="true">
 	<label>Four-image Composite CTA</label>
-	<form>/component/threeimagecompositecta</form>
+	<form>/component/fourimagecompositecta</form>
 	<form-path>simple</form-path>
 	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
 	<file-extension>xml</file-extension>

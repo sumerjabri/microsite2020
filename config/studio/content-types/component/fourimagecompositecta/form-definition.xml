@@ -2,14 +2,14 @@
 	<title>Four-image Composite CTA</title>
 	<description></description>
 	<objectType>component</objectType>
-	<content-type>/component/threeimagecompositecta</content-type>
+	<content-type>/component/fourimagecompositecta</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>true</quickCreate>
 	<quickCreatePath>/site/components/sections/ctas</quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
-			<value>/templates/web/components/threeimagecompositecta.ftl</value>
+			<value>/templates/web/components/fourimagecompositecta.ftl</value>
 			<type>template</type>
 		</property>
 		<property>
