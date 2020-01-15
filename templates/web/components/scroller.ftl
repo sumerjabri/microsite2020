@@ -1,3 +1,4 @@
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <!--client section start-->
     <section class="client-section ptb-100">
         <div class="container">
@@ -5,10 +6,9 @@
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="section-heading text-center mb-5">
-                        <h2>Trusted by companies</h2>
+                        <h2>${model.title_t}</h2>
                         <p class="lead">
-                            Rapidiously morph transparent internal or "organic" sources whereas resource sucking
-                            e-business. Conveniently innovate compelling internal.
+                            ${model.description_html}
                         </p>
                     </div>
                 </div>
@@ -53,3 +53,4 @@
         </div>
     </section>
     <!--client section start-->
+    <@studio.toolSupport/>
