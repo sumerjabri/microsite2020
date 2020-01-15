@@ -195,7 +195,7 @@
 						</property>
 						<property>
 							<name>height</name>
-							<value>4</value>
+							<value>100</value>
 							<type>int</type>
 						</property>
 						<property>
