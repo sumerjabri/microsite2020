@@ -26,7 +26,7 @@
 		</property>
 	</properties>
 	<sections>		<section>
-			<title>Three-image Composite CTA Properties</title>
+			<title>Four-image Composite CTA Properties</title>
 			<description></description>
 			<defaultOpen>true</defaultOpen>
 			<fields>
