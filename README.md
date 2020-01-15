@@ -21,8 +21,11 @@ Function1, Inc.
 https://function1.com
 #
 
+### Version 0.2.4 January 15, 2020
+Marketplace deployment fix.
+
 ### Version 0.2.3 January 15, 2020
-New screenshots.
+Marketplace deployment fix.
 
 ### Version 0.2.2 January 15, 2020
 New screenshots.
