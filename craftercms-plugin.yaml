@@ -26,7 +26,7 @@ plugin:
     screenshots:
       - title: Home Page
         description: Screenshot of the homepage
-        url: /studio/static-assets/images/blueprints/empty/bp_empty.png
+        url: /static-assets/img/blueprint/microsite2020-screenshot-1.png
   developer:
     company:
       name: Function1
@@ -41,7 +41,7 @@ plugin:
   crafterCmsVersions:
     - major: 3
       minor: 1
-      patch: 1
+      patch: 4
   crafterCmsEditions:
     - community
     - enterprise
