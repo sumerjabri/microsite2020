@@ -13,7 +13,11 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<description_t>Landing page 4 from the Microsite 2020 site blueprint from Function1.</description_t>
-	<sections_o item-list="true"/>
+	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
+	<value>Trusted By Companies</value>
+	<include>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
 	</item>	<item>	<keyword_s>function1</keyword_s>
@@ -22,6 +26,6 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T01:02:37.064Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T01:02:37.064Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T01:46:15.262Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T01:46:15.262Z</lastModifiedDate_dt>
 </page>
