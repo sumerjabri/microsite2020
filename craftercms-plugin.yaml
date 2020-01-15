@@ -16,7 +16,7 @@ plugin:
   version:
     major: 0
     minor: 2
-    patch: 0
+    patch: 1
   description: |
     A simple microsite template for Crafter. Initial version supports a single landing page. Blogs, articles, and more coming soon.
   website:
@@ -27,6 +27,9 @@ plugin:
       - title: Home Page
         description: Screenshot of the homepage
         url: /static-assets/img/blueprint/microsite2020-screenshot-1.png
+      - title: Key Points Section
+        description: View of the key points section, viewed within Crafter CMS with page builder options
+        url: /static-assets/img/blueprint/microsite2020-screenshot-2.png
   developer:
     company:
       name: Function1
