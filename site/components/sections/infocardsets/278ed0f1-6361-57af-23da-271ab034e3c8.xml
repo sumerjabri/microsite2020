@@ -14,15 +14,15 @@
 	<infocards_o item-list="true">	<item>	<icon_s>ti-vector</icon_s>
 	<title_s>Clean Design</title_s>
 	<subtitle_s>Increase sales by showing true dynamics of your website.</subtitle_s>
-	</item>	<item>	<icon_s>ti-lock</icon_s>
-	<title_s>Secure Data</title_s>
-	<subtitle_s>Build your online store's trust using Social Proof &amp; Urgency</subtitle_s>
 	</item>	<item>	<icon_s>ti-eye</icon_s>
 	<title_s>Retina Ready</title_s>
 	<subtitle_s>Realize importance of social proof in customer's purchase decision.</subtitle_s>
+	</item>	<item>	<icon_s>ti-lock</icon_s>
+	<title_s>Secure Data</title_s>
+	<subtitle_s>Build your online store's trust using Social Proof &amp; Urgency</subtitle_s>
 	</item></infocards_o>
 	<createdDate>2020-01-15T06:48:32.149Z</createdDate>
 	<createdDate_dt>2020-01-15T06:48:32.149Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T06:48:32.149Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T06:48:32.149Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-15T07:01:29.446Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T07:01:29.446Z</lastModifiedDate_dt>
 </component>
