@@ -556,7 +556,7 @@
 						</property>
 						<property>
 							<name>options</name>
-							<value>[{&quot;key&quot;:&quot;img-fluid d-block animation-one&quot;,&quot;value&quot;:&quot;One&quot;},{&quot;key&quot;:&quot;img-fluid d-none d-lg-block animation-two&quot;,&quot;value&quot;:&quot;Two&quot;},{&quot;key&quot;:&quot;img-fluid d-none d-lg-block animation-three&quot;,&quot;value&quot;:&quot;Three&quot;},{&quot;key&quot;:&quot;img-fluid d-none d-lg-block animation-four&quot;,&quot;value&quot;:&quot;Four&quot;}]</value>
+							<value>[{&quot;key&quot;:&quot;class=\&quot;img-fluid d-block animation-one\&quot;&quot;,&quot;value&quot;:&quot;One&quot;},{&quot;key&quot;:&quot;class=\&quot;img-fluid d-none d-lg-block animation-two\&quot;&quot;,&quot;value&quot;:&quot;Two&quot;},{&quot;key&quot;:&quot;class=\&quot;img-fluid d-none d-lg-block animation-three\&quot;&quot;,&quot;value&quot;:&quot;Three&quot;},{&quot;key&quot;:&quot;class=\&quot;img-fluid d-none d-lg-block animation-four\&quot;&quot;,&quot;value&quot;:&quot;Four&quot;}]</value>
 								<type>undefined</type>
 						</property>
 						<property>
