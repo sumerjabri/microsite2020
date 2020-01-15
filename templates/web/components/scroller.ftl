@@ -6,7 +6,7 @@
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="section-heading text-center mb-5">
-                        <h2>${model.title_t}</h2>
+                        <h2>${model.title_s}</h2>
                         <p class="lead">
                             ${model.description_html}
                         </p>
