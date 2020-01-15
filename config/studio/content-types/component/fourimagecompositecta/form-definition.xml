@@ -190,7 +190,7 @@
 					<properties>
 						<property>
 							<name>width</name>
-							<value>200</value>
+							<value>500</value>
 							<type>int</type>
 						</property>
 						<property>
