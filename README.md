@@ -3,7 +3,13 @@
 ## MICROSITE 2020
 _A simple microsite template for Crafter CMS_
 
-**Author**
+**Credits**
+\
+Microsite 2020 is a Crafter implementation
+of the AppCo template theme by ThemeTags. 
+https://themeforest.net/user/themetags
+
+**Author of Crafter Port of AppCo**
 \
 Tony Field
 tony@function1.com
@@ -14,6 +20,13 @@ Function1, Inc.
 \
 https://function1.com
 #
+
+### Version 0.2.0 January 15, 2020
+Update plugin. 
+New screenshot.
+Text changed to latin.
+Replaced placeholder images with some actual images.
+Added credit for theme developer.
 
 ### Version 0.1.1 January 15, 2020
 Blueprint file update.
