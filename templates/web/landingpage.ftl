@@ -61,32 +61,18 @@
                 <span class="ti-menu"></span>
             </button>
 
-            <div class="collapse navbar-collapse main-menu" id="navbarSupportedContent">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#features">Features</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#pricing">Pricing</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#screenshots">Screenshots</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#team">Team</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link page-scroll" href="#contact">Contact</a>
-                    </li>
+            <#if model.links_o??>
+                <div class="collapse navbar-collapse main-menu" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <#list model.links_o.item as item>
+                            <li class="nav-item">
+                                <a class="nav-link page-scroll" href="#${item.sectionid_s}">${item.title_s}</a>
+                            </li>
+                        </#list>
+                    </ul>
+                </div>
+            </#if>
 
-                </ul>
-            </div>
         </div>
     </nav>
     <!--end navbar-->

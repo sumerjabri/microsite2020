@@ -1,5 +1,5 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
-<section class="promo-section ptb-100">
+<section id="${model.sectionid_s}" class="promo-section ptb-100">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7 col-md-8">
