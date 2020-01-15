@@ -8,7 +8,7 @@
 	<objectId>c04946c0-51d2-278f-4373-f0d755d05741</objectId>
 	<file-name>c04946c0-51d2-278f-4373-f0d755d05741.xml</file-name>
 	<internal-name>Trusted By Companies</internal-name>
-	<title_s>A Heading</title_s>
+	<title_s>Lorem ipsum dolor sit amet</title_s>
 	<images_o item-list="true">	<item>	<image_s>/static-assets/img/client-4-color.png</image_s>
 	<alttext_s>Client 4</alttext_s>
 	</item>	<item>	<image_s>/static-assets/img/client-1-color.png</image_s>
@@ -26,8 +26,8 @@
 	</item></images_o>
 	<createdDate>2020-01-15T01:31:53.572Z</createdDate>
 	<createdDate_dt>2020-01-15T01:31:53.572Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T14:28:57.872Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T14:28:57.872Z</lastModifiedDate_dt>
-	<description_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.a&lt;br /&gt;&lt;/p&gt;</description_html>
+	<lastModifiedDate>2020-01-15T14:30:24.708Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-15T14:30:24.708Z</lastModifiedDate_dt>
+	<description_html>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&amp;nbsp;&lt;br /&gt;&lt;/p&gt;</description_html>
 	<sectionid_s>trusted</sectionid_s>
 </component>
