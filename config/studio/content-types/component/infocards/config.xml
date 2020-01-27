@@ -7,7 +7,7 @@
 	<content-as-folder>false</content-as-folder>
 	<previewable>false</previewable>
 	<quickCreate>true</quickCreate>
-	<quickCreatePath>/site/components/sections/infocardsets</quickCreatePath>
+	<quickCreatePath>/site/components/web/modules/info-card-sets</quickCreatePath>
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
 </content-type>

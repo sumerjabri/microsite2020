@@ -5,7 +5,7 @@
     <content-type>/component/scroller</content-type>
     <imageThumbnail>undefined</imageThumbnail>
     <quickCreate>true</quickCreate>
-    <quickCreatePath>/site/components/sections/scrollers</quickCreatePath>
+    <quickCreatePath>/site/components/web/modules/scrollers</quickCreatePath>
     <properties>
         <property>
             <name>display-template</name>

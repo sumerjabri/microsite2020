@@ -7,7 +7,7 @@
 	<content-as-folder>false</content-as-folder>
 	<previewable>false</previewable>
 	<quickCreate>true</quickCreate>
-	<quickCreatePath>/site/components/sections/ctas</quickCreatePath>
+	<quickCreatePath>/site/components/web/modules/four-image-composite-cta</quickCreatePath>
 	<noThumbnail>true</noThumbnail>
 	<image-thumbnail></image-thumbnail>
 </content-type>
