@@ -59,7 +59,6 @@
 </header>
 
 <div class="main">
-<section>Hello world</section>
     <#list model.sections_o.item as section>
         <@renderComponent component=section />
     </#list>
