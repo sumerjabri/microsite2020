@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/fourimagecompositecta</content-type>
+	<display-template>/templates/web/components/modules/fourimagecompositecta.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f6c5</objectGroupId>
+	<objectId>f6c55bb9-d4f3-47a5-730b-ceaa4fdec037</objectId>
+	<file-name>f6c55bb9-d4f3-47a5-730b-ceaa4fdec037.xml</file-name>
+	<internal-name>asdf</internal-name>
+	<sectionid_s>asdf</sectionid_s>
+	<title_s/>
+	<subtitle_s/>
+	<text_s/>
+	<target_s/>
+	<includeFloatingDots_b>false</includeFloatingDots_b>
+	<description_html/>
+	<createdDate>2020-01-27T22:30:37.893Z</createdDate>
+	<createdDate_dt>2020-01-27T22:30:37.893Z</createdDate_dt>
+	<lastModifiedDate>2020-01-27T22:30:37.893Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-27T22:30:37.893Z</lastModifiedDate_dt>
+</component>
