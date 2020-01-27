@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
 	<content-type>/component/fourimagecompositecta</content-type>
-	<display-template>/templates/web/components/modules/fourimagecompositecta.ftl</display-template>
+	<display-template>/templates/web/components/fourimagecompositecta.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>074a</objectGroupId>
@@ -10,8 +10,8 @@
 	<internal-name>Home Hero 2</internal-name>
 	<createdDate>2020-01-15T02:37:00.802Z</createdDate>
 	<createdDate_dt>2020-01-15T02:37:00.802Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T18:41:24.580Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T18:41:24.580Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-27T21:05:44.784Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-27T21:05:44.784Z</lastModifiedDate_dt>
 	<title_s>Microsite 2020</title_s>
 	<subtitle_s>simple microsite blueprint</subtitle_s>
 	<text_s>Take Action!</text_s>
