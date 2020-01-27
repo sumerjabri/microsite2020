@@ -59,9 +59,11 @@
 </header>
 
 <div class="main">
-    <#list model.sections_o.item as section>
-        <@renderComponent component=section />
-    </#list>
+    <#if model.sections_o??>
+        <#list model.sections_o.item as section>
+            <@renderComponent component=section />
+        </#list>
+    </#if>
 </div>
 
 <script src="/static-assets/js/jquery-3.4.1.min.js"></script>
