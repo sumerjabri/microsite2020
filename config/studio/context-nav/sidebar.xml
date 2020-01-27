@@ -124,10 +124,6 @@
                                         <path>/site/components/content</path>
                                         <icon>
                                             <class>fa-aws</class>
-                                            <styles>
-                                                <color>#409a00</color>
-                                                <font-size>16px</font-size>
-                                            </styles>
                                         </icon>
                                         <showRootItem>true</showRootItem>
                                     </params>
