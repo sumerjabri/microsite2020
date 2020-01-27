@@ -22,19 +22,19 @@
     </description_html>
     <images_o item-list="true">
         <item>
-            <image_s>/static-assets/content/images/hero-images/hero-animation-04.png</image_s>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-04.png</image_s>
             <alttext_s>Hero Animation 4</alttext_s>
         </item>
         <item>
             <alttext_s>Hero Animation 1</alttext_s>
-            <image_s>/static-assets/content/images/hero-images/hero-animation-01.png</image_s>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-01.png</image_s>
         </item>
         <item>
-            <image_s>/static-assets/content/images/hero-images/hero-animation-02.png</image_s>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-02.png</image_s>
             <alttext_s>Hero Animation 2</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/content/images/hero-images/hero-animation-03.png</image_s>
+            <image_s>/static-assets/content/images/four-image-composite-cta/hero-animation-03.png</image_s>
             <alttext_s>Hero Animation 3</alttext_s>
         </item>
     </images_o>

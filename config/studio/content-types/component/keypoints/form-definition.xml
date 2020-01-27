@@ -406,7 +406,7 @@
             <properties>
                 <property>
                     <name>repoPath</name>
-                    <value>/static-assets/img</value>
+                    <value>/static-assets/content/images/key-points</value>
                     <type>undefined</type>
                 </property>
                 <property>
