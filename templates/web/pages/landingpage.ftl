@@ -59,7 +59,7 @@
 </header>
 
 <div class="main">
-    <#if model.sections_o?has_content>
+    <#if model.sections_o?has_content && model.sections_o.item??>
         <#list model.sections_o.item as section>
             <@renderComponent component=section />
         </#list>
