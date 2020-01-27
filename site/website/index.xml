@@ -24,6 +24,10 @@
 	<value>Trusted By Companies</value>
 	<include>/site/components/sections/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
+	<value>Home Hero 2</value>
+	<include>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
@@ -33,8 +37,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-27T21:05:28.840Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-27T21:05:28.840Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-27T21:07:32.839Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-27T21:07:32.839Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
