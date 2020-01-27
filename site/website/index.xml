@@ -20,7 +20,7 @@
 	<value>Key Points 2</value>
 	<include>/site/components/sections/keypoints/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
 	<value>Default Info Card Set</value>
 	<include>/site/components/sections/infocardsets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
 	<disableFlattening>false</disableFlattening>
