@@ -1,3 +1,4 @@
+<#import "/templates/system/common/cstudio-support.ftl" as studio />
 <section id="${model.sectionid_s}" class="hero-section hero-section-2 ptb-100">
     <#if model.includeFloatingDots_b>
         <div class="circles">
