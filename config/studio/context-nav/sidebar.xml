@@ -123,7 +123,7 @@
                                         <label>Reusable Content</label>
                                         <path>/site/components/content</path>
                                         <icon>
-                                            <class>fa-aws</class>
+                                            <class>fa-file-alt</class>
                                         </icon>
                                         <showRootItem>true</showRootItem>
                                     </params>
