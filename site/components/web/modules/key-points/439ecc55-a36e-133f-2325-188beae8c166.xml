@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/keypoints</content-type>
+	<display-template>/templates/web/components/modules/keypoints.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>439e</objectGroupId>
+	<objectId>439ecc55-a36e-133f-2325-188beae8c166</objectId>
+	<file-name>439ecc55-a36e-133f-2325-188beae8c166.xml</file-name>
+	<internal-name>asdf</internal-name>
+	<sectionid_s>asdf</sectionid_s>
+	<title_s/>
+	<subtitle_s/>
+	<image_s/>
+	<createdDate>2020-01-27T22:31:34.677Z</createdDate>
+	<createdDate_dt>2020-01-27T22:31:34.677Z</createdDate_dt>
+	<lastModifiedDate>2020-01-27T22:31:34.677Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-27T22:31:34.677Z</lastModifiedDate_dt>
+</component>
