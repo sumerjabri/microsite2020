@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/infocards</content-type>
+	<display-template>/templates/web/components/modules/infocards.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9335</objectGroupId>
+	<objectId>9335bb77-3309-44ed-2668-ee0a1057211b</objectId>
+	<file-name>9335bb77-3309-44ed-2668-ee0a1057211b.xml</file-name>
+	<internal-name>asdf</internal-name>
+	<sectionid_s>asdf</sectionid_s>
+	<title_s/>
+	<subtitle_s/>
+	<description_html/>
+	<createdDate>2020-01-27T22:31:10.876Z</createdDate>
+	<createdDate_dt>2020-01-27T22:31:10.876Z</createdDate_dt>
+	<lastModifiedDate>2020-01-27T22:31:10.876Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-27T22:31:10.876Z</lastModifiedDate_dt>
+</component>
