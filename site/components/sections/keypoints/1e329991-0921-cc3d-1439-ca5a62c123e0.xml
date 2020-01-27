@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
 	<content-type>/component/keypoints</content-type>
-	<display-template>/templates/web/components/keypoints.ftl</display-template>
+	<display-template>/templates/web/components/modules/keypoints.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>1e32</objectGroupId>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
 	<content-type>/component/infocards</content-type>
-	<display-template>/templates/web/components/infocards.ftl</display-template>
+	<display-template>/templates/web/components/modules/infocards.ftl</display-template>
 	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>278e</objectGroupId>
