@@ -26,6 +26,9 @@ https://function1.com
 - Many more section types need to be added
 - Automatically building the navigation by section is not yet hooked up
 
+### Version 0.2.6 January 27, 2020
+Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
+
 ### Version 0.2.5 January 15, 2020
 Studio performance enhancement by removing extra studio tools inclusions.
 Incremental improvements in opengraph field population.
