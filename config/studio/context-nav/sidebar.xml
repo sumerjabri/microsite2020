@@ -122,9 +122,6 @@
                                     <params>
                                         <label>Reusable Content</label>
                                         <path>/site/components/content</path>
-                                        <icon>
-                                            <class>fa-file-alt</class>
-                                        </icon>
                                         <showRootItem>true</showRootItem>
                                     </params>
                                 </modulehook>
