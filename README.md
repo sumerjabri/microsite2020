@@ -25,6 +25,12 @@ https://function1.com
 - Site defaults need to be configured
 - Many more section types need to be added
 - Automatically building the navigation by section is not yet hooked up
+- add icons to sidebar
+- add security / roles
+- images for start menu items need to be added
+- move blueprint images to new location
+- remove unused site artifacts
+- switch to generic skin
 
 ### Version 0.2.6 January 27, 2020
 Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
