@@ -120,8 +120,16 @@
                                 <modulehook>
                                     <name>wcm-root-folder</name>                                    
                                     <params>
-                                        <label>Components</label>
-                                        <path>/site/components</path>
+                                        <label>Reusable Content</label>
+                                        <path>/site/components/content</path>
+                                        <showRootItem>true</showRootItem>
+                                    </params>
+                                </modulehook>
+                                <modulehook>
+                                    <name>wcm-root-folder</name>
+                                    <params>
+                                        <label>Web Components</label>
+                                        <path>/site/components/web</path>
                                         <showRootItem>true</showRootItem>
                                     </params>
                                 </modulehook>
@@ -132,6 +140,16 @@
                                     <params>
                                         <label>Static Assets</label>
                                         <path>/static-assets</path>
+                                        <showRootItem>true</showRootItem>
+                                        <onClick>none</onClick>
+                                    </params>
+                                </modulehook>
+                                <!-- Static Assets -->
+                                <modulehook>
+                                    <name>wcm-assets-folder</name>
+                                    <params>
+                                        <label>Static Content Assets</label>
+                                        <path>/static-assets/content</path>
                                         <showRootItem>true</showRootItem>
                                         <onClick>none</onClick>
                                     </params>
