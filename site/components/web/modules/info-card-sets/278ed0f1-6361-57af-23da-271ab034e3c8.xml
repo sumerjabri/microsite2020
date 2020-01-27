@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component>
-	<content-type>/component/infocards</content-type>
-	<display-template>/templates/web/components/modules/infocards.ftl</display-template>
-	<no-template-required/>
-	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>278e</objectGroupId>
-	<objectId>278ed0f1-6361-57af-23da-271ab034e3c8</objectId>
-	<file-name>278ed0f1-6361-57af-23da-271ab034e3c8.xml</file-name>
-	<internal-name>Default Info Card Set</internal-name>
-	<title_s>Sed ut perspiciatis unde omnis iste natus</title_s>
-	<subtitle_s>Lorem ipsum</subtitle_s>
-	<description_html>&lt;p&gt;Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?&amp;nbsp;&lt;br /&gt;&lt;/p&gt;</description_html>
-	<infocards_o item-list="true">	<item>	<icon_s>ti-vector</icon_s>
-	<title_s>Consectetur Adipiscing</title_s>
-	<subtitle_s>elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </subtitle_s>
-	</item>	<item>	<icon_s>ti-eye</icon_s>
-	<title_s>Ut enim ad</title_s>
-	<subtitle_s>minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</subtitle_s>
-	</item>	<item>	<icon_s>ti-lock</icon_s>
-	<title_s>Duis aute irure</title_s>
-	<subtitle_s>dolor in reprehenderit in voluptate velit esse cillum dolore</subtitle_s>
-	</item></infocards_o>
-	<createdDate>2020-01-15T06:48:32.149Z</createdDate>
-	<createdDate_dt>2020-01-15T06:48:32.149Z</createdDate_dt>
-	<lastModifiedDate>2020-01-15T14:35:10.783Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-15T14:35:10.783Z</lastModifiedDate_dt>
-	<sectionid_s>info</sectionid_s>
+    <content-type>/component/infocards</content-type>
+    <display-template>/templates/web/components/modules/infocards.ftl</display-template>
+    <no-template-required/>
+    <merge-strategy>inherit-levels</merge-strategy>
+    <objectGroupId>278e</objectGroupId>
+    <objectId>278ed0f1-6361-57af-23da-271ab034e3c8</objectId>
+    <file-name>278ed0f1-6361-57af-23da-271ab034e3c8.xml</file-name>
+    <internal-name>Default Info Card Set</internal-name>
+    <title_s>Sed ut perspiciatis unde omnis iste natus</title_s>
+    <subtitle_s>Lorem ipsum</subtitle_s>
+    <description_html>&lt;p&gt;Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
+        nisi ut aliquid ex ea commodi consequatur?&amp;nbsp;&lt;br /&gt;&lt;/p&gt;
+    </description_html>
+    <infocards_o item-list="true">
+        <item>
+            <icon_s>ti-vector</icon_s>
+            <title_s>Consectetur Adipiscing</title_s>
+            <subtitle_s>elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</subtitle_s>
+        </item>
+        <item>
+            <icon_s>ti-eye</icon_s>
+            <title_s>Ut enim ad</title_s>
+            <subtitle_s>minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</subtitle_s>
+        </item>
+        <item>
+            <icon_s>ti-lock</icon_s>
+            <title_s>Duis aute irure</title_s>
+            <subtitle_s>dolor in reprehenderit in voluptate velit esse cillum dolore</subtitle_s>
+        </item>
+    </infocards_o>
+    <createdDate>2020-01-15T06:48:32.149Z</createdDate>
+    <createdDate_dt>2020-01-15T06:48:32.149Z</createdDate_dt>
+    <lastModifiedDate>2020-01-15T14:35:10.783Z</lastModifiedDate>
+    <lastModifiedDate_dt>2020-01-15T14:35:10.783Z</lastModifiedDate_dt>
+    <sectionid_s>info</sectionid_s>
 </component>
