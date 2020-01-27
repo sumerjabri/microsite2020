@@ -12,7 +12,7 @@
 	<placeInNav>false</placeInNav>
 	<orderDefault_f>-1</orderDefault_f>
 	<description_t>Landing page 4 from the Microsite 2020 site blueprint from Function1.</description_t>
-	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/sections/ctas/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
+	<sections_o item-list="true">	<item datasource="sectionComponents">	<key>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</key>
 	<value>Home Hero 2</value>
 	<include>/site/components/sections/ctas/074aa5c3-d607-5910-aa6e-1116810f43b1.xml</include>
 	<disableFlattening>false</disableFlattening>
