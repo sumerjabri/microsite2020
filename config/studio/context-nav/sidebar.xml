@@ -122,6 +122,13 @@
                                     <params>
                                         <label>Reusable Content</label>
                                         <path>/site/components/content</path>
+                                        <icon>
+                                            <class>fa-aws</class>
+                                            <styles>
+                                                <color>#409a00</color>
+                                                <font-size>16px</font-size>
+                                            </styles>
+                                        </icon>
                                         <showRootItem>true</showRootItem>
                                     </params>
                                 </modulehook>
@@ -140,16 +147,6 @@
                                     <params>
                                         <label>Static Assets</label>
                                         <path>/static-assets</path>
-                                        <showRootItem>true</showRootItem>
-                                        <onClick>none</onClick>
-                                    </params>
-                                </modulehook>
-                                <!-- Static Assets -->
-                                <modulehook>
-                                    <name>wcm-assets-folder</name>
-                                    <params>
-                                        <label>Static Content Assets</label>
-                                        <path>/static-assets/content</path>
                                         <showRootItem>true</showRootItem>
                                         <onClick>none</onClick>
                                     </params>
