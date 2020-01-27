@@ -11,31 +11,31 @@
     <title_s>Lorem ipsum dolor sit amet</title_s>
     <images_o item-list="true">
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/airbnb-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/airbnb-logo.png</image_s>
             <alttext_s>Client 4</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/amazon-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/amazon-logo.png</image_s>
             <alttext_s>Client 1</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/paypal-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/paypal-logo.png</image_s>
             <alttext_s>Client 2</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/shop-bot-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/shop-bot-logo.png</image_s>
             <alttext_s>Client 3</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/slack-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/slack-logo.png</image_s>
             <alttext_s>Client 5</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/spotify-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/spotify-logo.png</image_s>
             <alttext_s>Client 6</alttext_s>
         </item>
         <item>
-            <image_s>/static-assets/img/microsite2020/customer-logos/stripe-logo.png</image_s>
+            <image_s>/static-assets/content/images/scrollers/stripe-logo.png</image_s>
             <alttext_s>Seventh Client</alttext_s>
         </item>
     </images_o>
