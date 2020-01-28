@@ -16,10 +16,15 @@
 <include>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot1_o>
-	<slot2_o/>
+	<slot2_o>		<item><key>/site/components/web/modules/text-block/77d51f03-c44c-595a-6d43-090156d608bd.xml</key>
+<value>My Second Text Block</value>
+<datasource>component</datasource>
+<include>/site/components/web/modules/text-block/77d51f03-c44c-595a-6d43-090156d608bd.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></slot2_o>
 	</item></slots_o>
 	<createdDate>2020-01-28T00:42:52.742Z</createdDate>
 	<createdDate_dt>2020-01-28T00:42:52.742Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T01:34:22.513Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T01:34:22.513Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T01:34:30.361Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T01:34:30.361Z</lastModifiedDate_dt>
 </component>
