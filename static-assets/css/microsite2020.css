@@ -134,7 +134,7 @@
     text-align: center;
 }
 ._component_video .image {
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
     margin: 1rem 1rem;
 }
