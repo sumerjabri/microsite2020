@@ -34,7 +34,7 @@ https://function1.com
 - bio social media links
 - add reviewer to book
 - add labels for "watch now" "listen now" and other static strings.
-
+- add new item through node picker puts all nodes directly into /components - fix to position similar to quickLinks
 ### Version 0.2.6 January 27, 2020
 Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
 
