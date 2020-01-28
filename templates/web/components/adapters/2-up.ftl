@@ -6,10 +6,10 @@
     </header>
     <#if model.slots_o??>
         <div class="slots">
-            <#if model.slots_o.item??>
-                got one
+            <#if model.slots_o.item?? && model.slots_o?hasNext>
+                got next
                 <#else>
-                don't got one
+                don't got next
             </#if>
         <#list model.slots_o.item as item>
             <div class="slot1">
