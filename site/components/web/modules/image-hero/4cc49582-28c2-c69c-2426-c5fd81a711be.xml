@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/imagehero</content-type>
+	<display-template>/templates/web/components/modules/image-hero.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4cc4</objectGroupId>
+	<objectId>4cc49582-28c2-c69c-2426-c5fd81a711be</objectId>
+	<file-name>4cc49582-28c2-c69c-2426-c5fd81a711be.xml</file-name>
+	<internal-name>asdf</internal-name>
+	<title_s>the title</title_s>
+	<subtitle_s>the subtitle</subtitle_s>
+	<description_html>&lt;p&gt;the description&lt;/p&gt;</description_html>
+	<createdDate>2020-01-28T03:09:45.432Z</createdDate>
+	<createdDate_dt>2020-01-28T03:09:45.432Z</createdDate_dt>
+	<lastModifiedDate>2020-01-28T03:09:45.432Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T03:09:45.432Z</lastModifiedDate_dt>
+</component>
