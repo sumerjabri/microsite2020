@@ -10,6 +10,6 @@
         </div>
     </#if>
     <div class="image">
-        <a href="${model.url_s}"><img src="${model.image_s}" alt="${model.title}" /></a>
+        <a href="${model.url_s}"><img src="${model.image_s}" alt="${model.title_s}" /></a>
     </div>
 </div>
