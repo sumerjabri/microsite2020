@@ -77,10 +77,10 @@
 
 ._component_imagehero h2,
 ._component_imagehero h3,
-._component_imagehero description{
+._component_imagehero .description{
     color: white;
 }
-._component_imagehero description {
+._component_imagehero .description {
     font-size: large;
     font-weight: bolder;
 }
