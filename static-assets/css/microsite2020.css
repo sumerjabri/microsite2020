@@ -123,7 +123,18 @@
     margin-bottom: 1rem;
 }
 ._component_book .image {
-    width: 33%;
-    height: 33%;
+    width: 50%;
+    height: 50%;
+    margin: 1rem 1rem;
+}
+
+
+
+._component_video {
+    text-align: center;
+}
+._component_video .image {
+    width: 50%;
+    height: 50%;
     margin: 1rem 1rem;
 }
