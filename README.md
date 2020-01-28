@@ -31,6 +31,7 @@ https://function1.com
 - move blueprint images to new location
 - remove unused site artifacts
 - switch to generic skin
+- bio social media links
 
 ### Version 0.2.6 January 27, 2020
 Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
