@@ -7,14 +7,16 @@
     <#if model.slots_o??>
         <div class="slots">
         <#list model.slots_o.item as item>
-            <#if item.slot1_o?? && item.slot1_o.item??>
-                <div class="slot1">
-                    {({(<@renderComponent component=item.slot1_o.item />)})}
-                </div>
-            </#if>
-            <#if item.slot2_o??>
-                <div class="slot2">slot2</div>
-            </#if>
+            <div class="slot1">
+                <#if item.slot1_o?? && item.slot1_o.item??>
+                    <@renderComponent component=item.slot1_o.item />
+                </#if>
+            </div>
+            <div class="slot2">
+                <#if item.slot2_o?? && item.slot2_o.item??>
+                    <@renderComponent component=item.slot2_o.item />
+                </#if>
+            </div>
         </#list>
         </div>
     </#if>
