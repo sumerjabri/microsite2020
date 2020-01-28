@@ -115,6 +115,9 @@
 
 
 
+._component_book {
+    text-align: center;
+}
 ._component_book .title {
     font-weight: bold;
 }
