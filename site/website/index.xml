@@ -29,10 +29,6 @@
 	<value>Key Points 2</value>
 	<include>/site/components/web/modules/key-points/1e329991-0921-cc3d-1439-ca5a62c123e0.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</key>
-	<value>asdf</value>
-	<include>/site/components/web/adapters/2-up/5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</key>
 	<value>Default Info Card Set</value>
 	<include>/site/components/web/modules/info-card-sets/278ed0f1-6361-57af-23da-271ab034e3c8.xml</include>
@@ -54,8 +50,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T02:29:28.436Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T02:29:28.436Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T02:33:09.617Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T02:33:09.617Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
