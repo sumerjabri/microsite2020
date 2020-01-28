@@ -2,33 +2,10 @@
     margin: 1rem;
 }
 ._component_2upadapter {
-    margin: 1rem;
+    margin: auto;
     padding: 0;
-}
-@media all and (min-width: 0px) and (max-width: 599px) {
-    ._component_2upadapter {
-        display: grid;
-        justify-items: stretch;
-        grid-template-columns: 1fr;
-        grid-template-rows: auto;
-        grid-template-areas:
-                "header"
-                "slot1"
-                "slot2";
-        margin: auto auto auto auto;
-    }
-}
-@media all and (min-width: 600px) {
-    ._component_2upadapter {
-        display: grid;
-        justify-items: stretch;
-        grid-template-columns: 300px 300px;
-        grid-template-rows: auto;
-        grid-template-areas:
-                "header header"
-                "slot1 slot2";
-        margin: auto auto auto auto;
-    }
+    display: grid;
+    grid-template-rows: auto;
 }
 ._component_2upadapter header {
     grid-area: header;
@@ -39,4 +16,21 @@
 }
 ._component_2upadapter .slots .slot2 {
     grid-area: slot2;
+}
+@media all and (min-width: 0px) and (max-width: 599px) {
+    ._component_2upadapter {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+                "header"
+                "slot1"
+                "slot2";
+    }
+}
+@media all and (min-width: 600px) {
+    ._component_2upadapter {
+        grid-template-columns: 300px 300px;
+        grid-template-areas:
+                "header header"
+                "slot1 slot2";
+    }
 }
