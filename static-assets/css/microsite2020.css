@@ -23,7 +23,7 @@
         grid-template-columns: 1fr 1fr;
         grid-template-rows: auto;
         grid-template-areas:
-                "header"
+                "header ."
                 "slot1 slot2";
         margin: auto auto 5rem auto;
     }
