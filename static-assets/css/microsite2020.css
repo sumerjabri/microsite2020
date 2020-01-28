@@ -67,3 +67,15 @@
 ._component_3upadapter .slots .slot3 {
     grid-area: slot3;
 }
+
+
+
+
+
+
+
+
+._component_imagehero header {
+    margin: auto;
+    text-align: center;
+}
