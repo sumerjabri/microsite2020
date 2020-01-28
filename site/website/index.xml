@@ -37,6 +37,10 @@
 	<value>My First Text Block</value>
 	<include>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</key>
+	<value>First Image Hero</value>
+	<include>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
 	<value>Trusted By Companies</value>
 	<include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
@@ -50,8 +54,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T03:11:05.771Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T03:11:05.771Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T03:27:39.595Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T03:27:39.595Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
