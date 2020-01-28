@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/2upadapter</content-type>
+	<display-template>/templates/web/components/adapters/2-up.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5534</objectGroupId>
+	<objectId>5534b0b9-63dd-c75e-bbc9-39f48f2d4584</objectId>
+	<internal-name>asdf</internal-name>
+	<title_s/>
+	<subtitle_s/>
+	<file-name>5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</file-name>
+	<createdDate>2020-01-28T02:21:36.785Z</createdDate>
+	<createdDate_dt>2020-01-28T02:21:36.785Z</createdDate_dt>
+	<lastModifiedDate>2020-01-28T02:21:36.785Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T02:21:36.785Z</lastModifiedDate_dt>
+</component>
