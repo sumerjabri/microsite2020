@@ -8,8 +8,8 @@
 	<objectId>514c9695-ed15-e73e-1b1a-4f5c5325f982</objectId>
 	<file-name>514c9695-ed15-e73e-1b1a-4f5c5325f982.xml</file-name>
 	<internal-name>First 2up adapter</internal-name>
-	<title_s>An Adaptor</title_s>
-	<subtitle_s/>
+	<title_s/>
+	<subtitle_s>Adaptors can be very useful.</subtitle_s>
 	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</key>
 <value>My First Text Block</value>
 <datasource>component</datasource>
@@ -25,6 +25,6 @@
 	</item></slots_o>
 	<createdDate>2020-01-28T00:42:52.742Z</createdDate>
 	<createdDate_dt>2020-01-28T00:42:52.742Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T00:47:24.400Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T00:47:24.400Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T00:47:36.077Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T00:47:36.077Z</lastModifiedDate_dt>
 </component>
