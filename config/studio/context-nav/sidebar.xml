@@ -127,9 +127,6 @@
                                 </modulehook>
                                 <modulehook>
                                     <name>wcm-root-folder</name>
-                    <icon>
-                        <class>fa-sort</class>
-                    </icon>
                                     <params>
                                         <label>Web Components</label>
                                         <path>/site/components/web</path>
