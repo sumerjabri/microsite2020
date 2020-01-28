@@ -127,10 +127,10 @@
                                 </modulehook>
                                 <modulehook>
                                     <name>wcm-root-folder</name>
-                                    <params>
                     <icon>
                         <class>fa-sort</class>
                     </icon>
+                                    <params>
                                         <label>Web Components</label>
                                         <path>/site/components/web</path>
                                         <showRootItem>true</showRootItem>
