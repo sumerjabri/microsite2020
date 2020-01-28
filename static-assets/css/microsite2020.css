@@ -8,7 +8,7 @@
 ._component_2upadapter header {
     margin: auto;
 }
-@media all and (min-width: 0px) and (max-width: 599px) {
+@media all and (min-width: 0px) and (max-width: 767px) {
     ._component_2upadapter ._component_2upadapter_slots {
         display: grid;
         grid-template-rows: auto;
@@ -18,7 +18,7 @@
                 "slot2";
     }
 }
-@media all and (min-width: 600px) {
+@media all and (min-width: 768px) {
     ._component_2upadapter ._component_2upadapter_slots {
         display: grid;
         grid-template-rows: auto;
