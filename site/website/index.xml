@@ -25,6 +25,10 @@
 	<value>First Image Hero</value>
 	<include>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</key>
+	<value>Movie 2up</value>
+	<include>/site/components/web/adapters/2-up/8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</key>
 	<value>First 2up Adapter </value>
 	<include>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</include>
@@ -54,8 +58,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T14:22:23.430Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T14:22:23.430Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T15:51:03.516Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T15:51:03.516Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
