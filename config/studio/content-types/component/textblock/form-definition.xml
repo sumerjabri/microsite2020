@@ -188,12 +188,12 @@
 						</property>
 						<property>
 							<name>height</name>
-							<value>600</value>
+							<value>400</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>autoGrow</name>
-							<value>false</value>
+							<value>true</value>
 							<type>boolean</type>
 						</property>
 						<property>
