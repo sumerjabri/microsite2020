@@ -6,14 +6,10 @@
         <img class="image" src="${model.image_s}" alt="${model.title_s}" />
     </#if>
     <#if model.order_link_s??>
-        <div class="order btn btn-primary">
-            <a target="_blank" rel="noreferrer noopener" href="${model.order_link_s}">Order Now</a>
-        </div>
+        <a  class="order btn btn-primary" target="_blank" rel="noreferrer noopener" href="${model.order_link_s}">Order Now</a>
     </#if>
     <#if model.listen_link_s??>
-        <div class="listen btn btn-primary">
-            <a  target="_blank" rel="noreferrer noopener" href="${model.listen_link_s}">Listen Now</a>
-        </div>
+        <a   class="order btn btn-primary" target="_blank" rel="noreferrer noopener" href="${model.listen_link_s}">Listen Now</a>
     </#if>
     <#-- Reviews coming soon -->
 </div>
