@@ -4,33 +4,32 @@
 ._component_2upadapter {
     margin: auto;
     padding: 0;
-    display: grid;
-    grid-template-rows: auto;
 }
 ._component_2upadapter header {
-    grid-area: header;
-}
-
-._component_2upadapter ._component_2upadapter_slots ._component_2upadapter_slot1 {
-    grid-area: slot1;
-}
-._component_2upadapter ._component_2upadapter_slots ._component_2upadapter_slot2 {
-    grid-area: slot2;
+    margin: auto;
 }
 @media all and (min-width: 0px) and (max-width: 599px) {
     ._component_2upadapter ._component_2upadapter_slots {
+        display: grid;
+        grid-template-rows: auto;
         grid-template-columns: 1fr;
         grid-template-areas:
-                "header"
                 "slot1"
                 "slot2";
     }
 }
 @media all and (min-width: 600px) {
     ._component_2upadapter ._component_2upadapter_slots {
-        grid-template-columns: .8fr .8fr;
+        display: grid;
+        grid-template-rows: auto;
+        grid-template-columns: 1fr 1fr;
         grid-template-areas:
-                "header header"
                 "slot1  slot2";
     }
+}
+._component_2upadapter ._component_2upadapter_slots ._component_2upadapter_slot1 {
+    grid-area: slot1;
+}
+._component_2upadapter ._component_2upadapter_slots ._component_2upadapter_slot2 {
+    grid-area: slot2;
 }
