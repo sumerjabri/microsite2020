@@ -15,7 +15,7 @@
                 </#if>
             </div>
             <div class="slot2">
-                <#if item.slot2_o?has_content >
+                <#if item.slot2_o.item?has_content >
                     <@renderComponent component=item.slot2_o.item />
                 </#if>
             </div>
