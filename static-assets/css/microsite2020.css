@@ -81,5 +81,6 @@
     color: white;
 }
 ._component_imagehero description {
+    font-size: large;
     font-weight: bolder;
 }
