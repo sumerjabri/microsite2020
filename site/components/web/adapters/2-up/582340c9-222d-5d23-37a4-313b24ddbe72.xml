@@ -16,15 +16,15 @@
 <include>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot1_o>
-	<slot2_o>		<item><key>/site/components/web/modules/text-block/0817fba6-39b1-9413-d73e-11bab502a62a.xml</key>
-<value>Text Block 3</value>
+	<slot2_o>		<item><key>/site/components/content/biographies/72e341e6-d5e3-f69e-c488-d3515bff15aa.xml</key>
+<value>Jane Smith</value>
 <datasource>component</datasource>
-<include>/site/components/web/modules/text-block/0817fba6-39b1-9413-d73e-11bab502a62a.xml</include>
+<include>/site/components/content/biographies/72e341e6-d5e3-f69e-c488-d3515bff15aa.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot2_o>
 	</item></slots_o>
 	<createdDate>2020-01-28T02:18:06.851Z</createdDate>
 	<createdDate_dt>2020-01-28T02:18:06.851Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T02:18:06.851Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T02:18:06.851Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T04:21:37.375Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T04:21:37.375Z</lastModifiedDate_dt>
 </component>
