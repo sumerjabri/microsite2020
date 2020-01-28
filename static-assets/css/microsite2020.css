@@ -2,7 +2,7 @@
     margin: auto;
     text-align: center;
 }
-@media all and (min-width: 0px) and (max-width: 767px) {
+@media all and (min-width: 0px) and (max-width: 991px) {
     ._component_2upadapter .slots {
         display: grid;
         grid-template-rows: auto;
@@ -12,7 +12,7 @@
                 "slot2";
     }
 }
-@media all and (min-width: 768px) {
+@media all and (min-width: 992px) {
     ._component_2upadapter .slots {
         display: grid;
         grid-template-rows: auto;
@@ -38,7 +38,7 @@
     margin: auto;
     text-align: center;
 }
-@media all and (min-width: 0px) and (max-width: 767px) {
+@media all and (min-width: 0px) and (max-width: 991px) {
     ._component_3upadapter .slots {
         display: grid;
         grid-template-rows: auto;
@@ -49,7 +49,7 @@
                 "slot3";
     }
 }
-@media all and (min-width: 768px) {
+@media all and (min-width: 992px) {
     ._component_3upadapter .slots {
         display: grid;
         grid-template-rows: auto;
