@@ -7,4 +7,5 @@
     <div class="description">
         ${model.description_html}
     </div>
+    <img src="${model.image_s}" alt="${model.title_s}" />
 </div>
