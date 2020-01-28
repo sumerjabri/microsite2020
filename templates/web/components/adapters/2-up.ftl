@@ -5,14 +5,14 @@
         <#if model.subtitle_s??><h3>${model.subtitle_s}</h3></#if>
     </header>
     <#if model.slots_o??>
-        <div class="slots">
+        <div class="_component_2upadapter_slots">
         <#list model.slots_o.item as item>
-            <div class="slot1">
+            <div class="_component_2upadapter_slot1">
                 <#if item.slot1_o?? && item.slot1_o.item??>
                     <@renderComponent component=item.slot1_o.item />
                 </#if>
             </div>
-            <div class="slot2">
+            <div class="_component_2upadapter_slot2">
                 <#if item.slot2_o?? && item.slot2_o.item??>
                     <@renderComponent component=item.slot2_o.item />
                 </#if>
