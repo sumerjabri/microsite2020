@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/2upadapter</content-type>
+	<display-template>/templates/web/components/adapters/2-up.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8ea7</objectGroupId>
+	<objectId>8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b</objectId>
+	<file-name>8ea7c3ba-58d5-c3eb-bbb8-5af6e5804d7b.xml</file-name>
+	<internal-name>Movie 2up</internal-name>
+	<title_s/>
+	<subtitle_s/>
+	<createdDate>2020-01-28T15:50:41.190Z</createdDate>
+	<createdDate_dt>2020-01-28T15:50:41.190Z</createdDate_dt>
+	<lastModifiedDate>2020-01-28T15:50:41.190Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T15:50:41.190Z</lastModifiedDate_dt>
+</component>
