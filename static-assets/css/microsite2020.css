@@ -148,6 +148,12 @@
 ._component_featuredlinkwiththumbnail {
 
 }
+._component_featuredlinkwiththumbnail h2 {
+    font-size: smaller;
+}
+._component_featuredlinkwiththumbnail h3 {
+    font-size: smaller;
+}
 ._component_featuredlinkwiththumbnail a img {
     width: 100%;
     height: 100%;
