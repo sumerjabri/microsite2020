@@ -4,3 +4,7 @@
 ._component_2upadapter {
     margin: 1rem;
 }
+._component_2upadapter .slots .slot1,
+._component_2upadapter .slots .slot2 {
+    width: 50%;
+}
