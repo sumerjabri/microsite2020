@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/book</content-type>
+	<display-template>/templates/web/components/book-summary.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ea9b</objectGroupId>
+	<objectId>ea9b0bdc-0777-d29d-1a30-83ed9b922733</objectId>
+	<file-name>ea9b0bdc-0777-d29d-1a30-83ed9b922733.xml</file-name>
+	<internal-name>Game of Thrones</internal-name>
+	<title_s>A Game of Thrones</title_s>
+	<subtitle_s>A Song of Ice and Fire</subtitle_s>
+	<order_link_s/>
+	<listen_link/>
+	<image_s/>
+	<createdDate>2020-01-28T14:16:21.922Z</createdDate>
+	<createdDate_dt>2020-01-28T14:16:21.922Z</createdDate_dt>
+	<lastModifiedDate>2020-01-28T14:16:21.922Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T14:16:21.922Z</lastModifiedDate_dt>
+</component>
