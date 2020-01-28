@@ -286,7 +286,7 @@
 						</property>
 						<property>
 							<name>imageManager</name>
-							<value></value>
+							<value>heroImages</value>
 							<type>datasource:image</type>
 						</property>
 						<property>
