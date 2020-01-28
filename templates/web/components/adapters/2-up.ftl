@@ -6,24 +6,15 @@
     </header>
     <#if model.slots_o??>
         <div class="slots">
-            <#if model.slots_o.item?? && model.slots_o.item?hasNext>
-                got next
-                <#else>
-                don't got next
-            </#if>
         <#list model.slots_o.item as item>
             <div class="slot1">
                 <#if item.slot1_o.item?? >
                     <@renderComponent component=item.slot1_o.item />
-                <#else>
-                    <div class="dropzone">Add Content</div>
                 </#if>
             </div>
             <div class="slot2">
                 <#if item.slot2_o?? >
                     <@renderComponent component=item.slot2_o.item />
-                <#else>
-                    <div class="dropzone">Add Content</div>
                 </#if>
             </div>
         </#list>
