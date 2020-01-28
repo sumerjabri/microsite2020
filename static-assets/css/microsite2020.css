@@ -11,10 +11,10 @@
     grid-area: header;
 }
 
-._component_2upadapter .slots .slot1 {
+._component_2upadapter ._component_2upadapterslots ._component_2upadapter_slot1 {
     grid-area: slot1;
 }
-._component_2upadapter .slots .slot2 {
+._component_2upadapter ._component_2upadapterslots ._component_2upadapter_slot2 {
     grid-area: slot2;
 }
 @media all and (min-width: 0px) and (max-width: 599px) {
