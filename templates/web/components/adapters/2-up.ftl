@@ -1,9 +1,11 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div class="_component_2upadapter container" <@studio.iceAttr iceGroup="content" />>
-    <header>
-        <#if model.title_s?has_content><h2>${model.title_s}</h2></#if>
-        <#if model.subtitle_s??><h3>${model.subtitle_s}</h3></#if>
-    </header>
+    <#if model.title_s?has_content || model.subtitle_s?has_content>
+        <header>
+            <#if model.title_s?has_content><h2>${model.title_s}</h2></#if>
+            <#if model.subtitle_s?has_content><h3>${model.subtitle_s}</h3></#if>
+        </header>
+    </#if>
     <#if model.slots_o??>
         <div class="slots">
         <#list model.slots_o.item as item>
