@@ -100,8 +100,10 @@
 }
 ._component_biography .image {
     float: left;
-    width: 50%;
-    height: 50%;
+    width: 33%;
+    height: 33%;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
 }
 
 
