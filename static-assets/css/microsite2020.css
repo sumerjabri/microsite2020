@@ -149,10 +149,11 @@
 
 }
 ._component_featuredlinkwiththumbnail h2 {
-    font-size: smaller;
+    font-size: 1.3rem;
 }
 ._component_featuredlinkwiththumbnail h3 {
-    font-size: smaller;
+    font-size: 1.1rem;
+    font-weight: bold;
 }
 ._component_featuredlinkwiththumbnail a img {
     width: 100%;
