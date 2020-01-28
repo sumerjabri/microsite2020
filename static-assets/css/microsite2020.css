@@ -28,9 +28,9 @@
 }
 @media all and (min-width: 600px) {
     ._component_2upadapter {
-        grid-template-columns: 300px 300px;
+        grid-template-columns: 1fr 1fr;
         grid-template-areas:
                 "header header"
-                "slot1 slot2";
+                "slot1  slot2";
     }
 }
