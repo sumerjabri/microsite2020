@@ -99,6 +99,7 @@
     font-style: italic;
 }
 ._component_biography .image {
+    float: left;
     width: 50%;
     height: 50%;
 }
