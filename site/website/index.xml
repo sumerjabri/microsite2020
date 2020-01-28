@@ -21,6 +21,10 @@
 	<value>First 3-up Adapter</value>
 	<include>/site/components/web/adapters/3-up/6708ccb3-a181-5ac1-881e-1a4bac5ab95b.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</key>
+	<value>First Image Hero</value>
+	<include>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</key>
 	<value>First 2up Adapter </value>
 	<include>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</include>
@@ -37,10 +41,6 @@
 	<value>My First Text Block</value>
 	<include>/site/components/web/modules/text-block/b10c63d8-1b46-ddbe-101e-fb460fc782fa.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</key>
-	<value>First Image Hero</value>
-	<include>/site/components/web/modules/image-hero/d591bae1-2fed-9e28-8f7b-05bae137c70a.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</key>
 	<value>Trusted By Companies</value>
 	<include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
@@ -54,8 +54,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T03:27:39.595Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T03:27:39.595Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T03:48:45.817Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T03:48:45.817Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
