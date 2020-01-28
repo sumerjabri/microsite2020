@@ -8,7 +8,9 @@
         <div class="slots">
         <#list model.slots_o.item as item>
             <#if item.slot1_o??>
-                <div class="slot1">slot1</div>
+                <div class="slot1">
+                    {({(<@renderComponent component=item.slot1_o />)})}
+                </div>
             </#if>
             <#if item.slot2_o??>
                 <div class="slot2">slot2</div>
