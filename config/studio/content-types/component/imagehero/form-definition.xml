@@ -308,8 +308,8 @@
 	</sections>
 	<datasources>				<datasource>
 					<type>img-repository-upload</type>
-					<id>heroImage</id>
-					<title>Hero Image</title>
+					<id>heroImages</id>
+					<title>Hero Images</title>
 					<interface>image</interface>
 					<properties>
 						<property>
