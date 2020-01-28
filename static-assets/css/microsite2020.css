@@ -8,6 +8,7 @@
 @media all and (min-width: 0px) and (max-width: 599px) {
     ._component_2upadapter {
         display: grid;
+        justify-items: stretch;
         grid-template-columns: 1fr;
         grid-template-rows: auto;
         grid-template-areas:
@@ -20,6 +21,7 @@
 @media all and (min-width: 600px) {
     ._component_2upadapter {
         display: grid;
+        justify-items: stretch;
         grid-template-columns: 300px 300px;
         grid-template-rows: auto;
         grid-template-areas:
