@@ -118,7 +118,8 @@
 ._component_book {
     text-align: center;
 }
-._component_book .order {
+._component_book .order,
+.component_book .listen {
     margin-bottom: 1rem;
 }
 ._component_book .image {
