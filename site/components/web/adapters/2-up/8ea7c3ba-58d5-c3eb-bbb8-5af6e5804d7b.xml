@@ -12,18 +12,18 @@
 	<subtitle_s/>
 	<createdDate>2020-01-28T15:50:41.190Z</createdDate>
 	<createdDate_dt>2020-01-28T15:50:41.190Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T16:12:00.344Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T16:12:00.344Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T16:17:21.209Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T16:17:21.209Z</lastModifiedDate_dt>
 	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/content/video/3698073b-37d4-a2c3-f1c4-033f900e63df.xml</key>
 <value>Arya Stark and the Night King</value>
 <datasource>component</datasource>
 <include>/site/components/content/video/3698073b-37d4-a2c3-f1c4-033f900e63df.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot1_o>
-	<slot2_o>		<item><key>/site/components//2a5e9ff1-07c7-9caa-866b-407670e7371e.xml</key>
+	<slot2_o>		<item><key>/site/components/web/modules/text-block/2a5e9ff1-07c7-9caa-866b-407670e7371e.xml</key>
 <value>Inline created text block</value>
 <datasource>component</datasource>
-<include>/site/components//2a5e9ff1-07c7-9caa-866b-407670e7371e.xml</include>
+<include>/site/components/web/modules/text-block/2a5e9ff1-07c7-9caa-866b-407670e7371e.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot2_o>
 	</item></slots_o>
