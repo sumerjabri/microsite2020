@@ -39,7 +39,7 @@
     text-align: center;
 }
 @media all and (min-width: 0px) and (max-width: 767px) {
-    ._component_3upadapter ._component_3upadapter_slots {
+    ._component_3upadapter .slots {
         display: grid;
         grid-template-rows: auto;
         grid-template-columns: 1fr;
@@ -50,7 +50,7 @@
     }
 }
 @media all and (min-width: 768px) {
-    ._component_3upadapter ._component_3upadapter_slots {
+    ._component_3upadapter .slots {
         display: grid;
         grid-template-rows: auto;
         grid-template-columns: 1fr 1fr 1fr;
@@ -58,12 +58,12 @@
                 "slot1  slot2  slot3";
     }
 }
-._component_3upadapter ._component_3upadapter_slots ._component_3upadapter_slot1 {
+._component_3upadapter .slots .slot1 {
     grid-area: slot1;
 }
-._component_3upadapter ._component_3upadapter_slots ._component_3upadapter_slot2 {
+._component_3upadapter .slots .slot2 {
     grid-area: slot2;
 }
-._component_3upadapter ._component_3upadapter_slots ._component_3upadapter_slot3 {
+._component_3upadapter .slots .slot3 {
     grid-area: slot3;
 }
