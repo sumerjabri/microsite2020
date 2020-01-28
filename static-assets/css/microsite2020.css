@@ -116,7 +116,6 @@
 
 
 ._component_book {
-    text-align: center;
 }
 ._component_book .order,
 .component_book .listen {
@@ -131,7 +130,6 @@
 
 
 ._component_video {
-    text-align: center;
 }
 ._component_video .image {
     width: 100%;
