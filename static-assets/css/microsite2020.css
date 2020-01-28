@@ -90,10 +90,13 @@
 
 
 
-._component_biography .title,
+._component_biography .title {
+    font-weight: bold;
+}
 ._component_biography .email,
 ._component_biography .phone {
     font-weight: bold;
+    font-size: small;
 }
 ._component_biography .summary {
     font-style: italic;

@@ -5,7 +5,7 @@
         <img class="image" src="${model.image_s}" alt="${model.name_s}" />
     </#if>
     <#if model.title_s??><div class="title">${model.title_s}</div></#if>
-    <#if model.summary_html??><div class="summary">${model.summary_html}</div></#if>
     <#if model.email_s??><div class="email">${model.email_s}</div></#if>
     <#if model.phone_s??><div class="phone">${model.phone_s}</div></#if>
+    <#if model.summary_html??><div class="summary">${model.summary_html}</div></#if>
 </div>
