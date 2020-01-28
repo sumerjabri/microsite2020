@@ -83,3 +83,25 @@
 ._component_imagehero .description {
     font-weight: bold;
 }
+
+
+
+
+
+
+
+._component_biography .title,
+._component_biography .email,
+._component_biography .phone {
+    font-weight: bold;
+}
+._component_biography .summary {
+    font-style: italic;
+}
+._component_biography .image {
+    width: 50%;
+    height: 50%;
+}
+
+
+
