@@ -242,7 +242,7 @@
 					<id>summary_html</id>
 					<iceId>content</iceId>
 					<title>Summary</title>
-					<description></description>
+					<description>Brief summary bio  4-8 sentences</description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
@@ -315,7 +315,7 @@
 					<id>body_html</id>
 					<iceId>content</iceId>
 					<title>Body</title>
-					<description></description>
+					<description>Full biography - not shown on summary views</description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
