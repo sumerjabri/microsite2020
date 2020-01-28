@@ -6,7 +6,7 @@
     </header>
     <#if model.slots_o??>
         <div class="slots">
-            <#if model.slots_o.item?? && model.slots_o?hasNext>
+            <#if model.slots_o.item?? && model.slots_o.item?hasNext>
                 got next
                 <#else>
                 don't got next
