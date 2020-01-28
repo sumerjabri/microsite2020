@@ -7,7 +7,7 @@
     <#if model.slots_o??>
         <div class="slots">
         <#list model.slots_o.item as item>
-            <#if item.slot1_o??>
+            <#if item.slot1_o?? && item.slot1_o.item??>
                 <div class="slot1">
                     {({(<@renderComponent component=item.slot1_o.item />)})}
                 </div>
