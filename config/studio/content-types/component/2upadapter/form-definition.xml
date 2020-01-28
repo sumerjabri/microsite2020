@@ -89,7 +89,7 @@
 				<field>
 					<type>input</type>
 					<id>title_s</id>
-					<iceId></iceId>
+					<iceId>content</iceId>
 					<title>Title</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -132,7 +132,7 @@
 				<field>
 					<type>input</type>
 					<id>subtitle_s</id>
-					<iceId></iceId>
+					<iceId>content</iceId>
 					<title>Subtitle</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -175,7 +175,7 @@
 				<field>
 					<type>repeat</type>
 					<id>slots_o</id>
-					<iceId></iceId>
+					<iceId>content</iceId>
 					<title>Slots</title>
 					<description></description>
 					<minOccurs>0</minOccurs>
@@ -196,7 +196,7 @@
 				<field>
 					<type>node-selector</type>
 					<id>slot1_o</id>
-					<iceId></iceId>
+					<iceId>content</iceId>
 					<title>Slot 1</title>
 					<description></description>
 					<defaultValue></defaultValue>
@@ -244,7 +244,7 @@
 				<field>
 					<type>node-selector</type>
 					<id>slot2_o</id>
-					<iceId></iceId>
+					<iceId>content</iceId>
 					<title>Slot 2</title>
 					<description></description>
 					<defaultValue></defaultValue>
