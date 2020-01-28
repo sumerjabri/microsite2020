@@ -5,7 +5,9 @@
         <#if model.subtitle_s??><h3>${model.subtitle_s}</h3></#if>
     </header>
     <div class="slots">
+    <#if model.slots?? && model.slots.slot1??>
         <div class="slot1">slot1</div>
+    </#if>
         <div class="slot2">slot2</div>
     </div>
 </div>
