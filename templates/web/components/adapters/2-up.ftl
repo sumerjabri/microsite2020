@@ -6,16 +6,16 @@
             <#if model.subtitle_s?has_content><h3>${model.subtitle_s}</h3></#if>
         </header>
     </#if>
-    <#if model.slots_o??>
+    <#if model.slots_o?has_content>
         <div class="slots">
         <#list model.slots_o.item as item>
             <div class="slot1">
-                <#if item.slot1_o.item?? >
+                <#if item.slot1_o.item?has_content >
                     <@renderComponent component=item.slot1_o.item />
                 </#if>
             </div>
             <div class="slot2">
-                <#if item.slot2_o?? >
+                <#if item.slot2_o?has_content >
                     <@renderComponent component=item.slot2_o.item />
                 </#if>
             </div>
