@@ -118,8 +118,8 @@
 ._component_book {
     text-align: center;
 }
-._component_book .title {
-    font-weight: bold;
+._component_book .order {
+    margin-bottom: 1rem;
 }
 ._component_book .image {
     width: 33%;
