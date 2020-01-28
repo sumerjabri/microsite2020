@@ -75,7 +75,8 @@
 
 
 
-._component_imagehero header {
-    margin: auto;
-    text-align: center;
+._component_imagehero h2,
+._component_imagehero h3,
+._component_imagehero description{
+    color: white;
 }
