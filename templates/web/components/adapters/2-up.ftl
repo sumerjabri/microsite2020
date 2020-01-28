@@ -6,6 +6,11 @@
     </header>
     <#if model.slots_o??>
         <div class="slots">
+            <#if model.slots_o??>
+                got one
+                <#else>
+                don't got one
+            </#if>
         <#list model.slots_o.item as item>
             <div class="slot1">
                 <#if item.slot1_o.item?? >
