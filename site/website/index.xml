@@ -17,6 +17,10 @@
 	<include>/site/components/web/modules/four-image-composite-cta/074aa5c3-d607-5910-aa6e-1116810f43b1.xml
             </include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</key>
+	<value>asdf</value>
+	<include>/site/components/web/adapters/2-up/5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</key>
 	<value>First 2up Adapter </value>
 	<include>/site/components/web/adapters/2-up/582340c9-222d-5d23-37a4-313b24ddbe72.xml</include>
@@ -37,10 +41,6 @@
 	<value>Trusted By Companies</value>
 	<include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item>	<item datasource="sectionComponents">	<key>/site/components/web/adapters/2-up/5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</key>
-	<value>asdf</value>
-	<include>/site/components/web/adapters/2-up/5534b0b9-63dd-c75e-bbc9-39f48f2d4584.xml</include>
-	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
@@ -50,8 +50,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T02:21:44.373Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T02:21:44.373Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-28T02:21:59.526Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T02:21:59.526Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
