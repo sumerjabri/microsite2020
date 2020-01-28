@@ -5,7 +5,36 @@
     margin: 1rem;
     padding: 0;
 }
-._component_2upadapter .slots .slot1,
+@media all and (min-width: 0px) and (max-width: 599px) {
+    ._component_2upadapter {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+                "header"
+                "slot1"
+                "slot2";
+        margin: auto auto 5rem auto;
+    }
+}
+@media all and (min-width: 600px) {
+    ._component_2upadapter {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+        grid-template-areas:
+                "header"
+                "slot1 slot2";
+        margin: auto auto 5rem auto;
+    }
+}
+._component_2upadapter header {
+    grid-area: header;
+}
+
+._component_2upadapter .slots .slot1 {
+    grid-area: slot1;
+}
 ._component_2upadapter .slots .slot2 {
-    width: 50%;
+    grid-area: slot2;
 }
