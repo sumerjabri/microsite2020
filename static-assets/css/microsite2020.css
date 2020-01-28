@@ -79,5 +79,7 @@
 ._component_imagehero h3,
 ._component_imagehero description{
     color: white;
-    font-weight: bold;
+}
+._component_imagehero description {
+    font-weight: bolder;
 }
