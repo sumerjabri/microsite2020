@@ -183,12 +183,12 @@
 					<properties>
 						<property>
 							<name>width</name>
-							<value>80</value>
+							<value>600</value>
 							<type>int</type>
 						</property>
 						<property>
 							<name>height</name>
-							<value>80</value>
+							<value>600</value>
 							<type>int</type>
 						</property>
 						<property>
