@@ -9,7 +9,7 @@
         <#list model.slots_o.item as item>
             <#if item.slot1_o??>
                 <div class="slot1">
-                    {({(<@renderComponent component=item.slot1_o />)})}
+                    {({(<@renderComponent component=item.slot1_o.item />)})}
                 </div>
             </#if>
             <#if item.slot2_o??>
