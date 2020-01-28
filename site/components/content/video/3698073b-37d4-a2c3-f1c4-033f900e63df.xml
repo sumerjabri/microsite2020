@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/video</content-type>
+	<display-template>/templates/web/components/video-summary.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3698</objectGroupId>
+	<objectId>3698073b-37d4-a2c3-f1c4-033f900e63df</objectId>
+	<file-name>3698073b-37d4-a2c3-f1c4-033f900e63df.xml</file-name>
+	<internal-name>Arya Stark and the Night King</internal-name>
+	<title_s>Arya Stark Kills the Night King</title_s>
+	<url_s>https://www.youtube.com/watch?v=UuKqvE5Db2c</url_s>
+	<image_s/>
+	<description_html>&lt;p&gt;Game of Thrones Season 8 Episode 3 (2019) The Long Night Scene: Arya Stark Kills The Night King (Battle of Winterfell Ending)&lt;/p&gt;</description_html>
+	<createdDate>2020-01-28T15:44:38.624Z</createdDate>
+	<createdDate_dt>2020-01-28T15:44:38.624Z</createdDate_dt>
+	<lastModifiedDate>2020-01-28T15:44:38.624Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-28T15:44:38.624Z</lastModifiedDate_dt>
+	<date_dt>2020-01-28T05:00:00.000Z</date_dt>
+	<date_dt_tz>EST5EDT</date_dt_tz>
+</component>
