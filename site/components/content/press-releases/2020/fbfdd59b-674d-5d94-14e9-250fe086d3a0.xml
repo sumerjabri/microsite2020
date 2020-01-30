@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/pressrelease</content-type>
+	<display-template>/templates/web/components/press-release-summary.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fbfd</objectGroupId>
+	<objectId>fbfdd59b-674d-5d94-14e9-250fe086d3a0</objectId>
+	<internal-name>foo</internal-name>
+	<file-name>fbfdd59b-674d-5d94-14e9-250fe086d3a0.xml</file-name>
+	<createdDate>2020-01-30T21:05:48.356Z</createdDate>
+	<createdDate_dt>2020-01-30T21:05:48.356Z</createdDate_dt>
+	<lastModifiedDate>2020-01-30T21:05:48.356Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T21:05:48.356Z</lastModifiedDate_dt>
+</component>
