@@ -5,7 +5,7 @@
 	<content-type>/component/galleryphoto</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>true</quickCreate>
-	<quickCreatePath>/site/components/content/gallery-photos/</quickCreatePath>
+	<quickCreatePath>/site/components/content/gallery-photos/{yyyy}/</quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
