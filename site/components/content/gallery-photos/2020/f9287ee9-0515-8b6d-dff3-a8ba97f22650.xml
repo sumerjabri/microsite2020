@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/galleryphoto</content-type>
+	<display-template>/templates/web/components/gallery-photo.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f928</objectGroupId>
+	<objectId>f9287ee9-0515-8b6d-dff3-a8ba97f22650</objectId>
+	<file-name>f9287ee9-0515-8b6d-dff3-a8ba97f22650.xml</file-name>
+	<internal-name>First Gallery Photo</internal-name>
+	<title_s>The First Gallery Photo</title_s>
+	<subtitle_s>With great subtitle</subtitle_s>
+	<alt_s>First Gallery Photo</alt_s>
+	<category_s>event</category_s>
+	<image_s>/static-assets/content/images/gallery-images/Screenshot 2020-01-30 17.36.58.png</image_s>
+	<createdDate>2020-01-30T22:37:27.881Z</createdDate>
+	<createdDate_dt>2020-01-30T22:37:27.881Z</createdDate_dt>
+	<lastModifiedDate>2020-01-30T22:37:27.881Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T22:37:27.881Z</lastModifiedDate_dt>
+</component>
