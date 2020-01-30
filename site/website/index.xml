@@ -49,6 +49,10 @@
 	<value>Trusted By Companies</value>
 	<include>/site/components/web/modules/scrollers/c04946c0-51d2-278f-4373-f0d755d05741.xml</include>
 	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sectionComponents">	<key>/site/components/web/4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</key>
+	<value>Press Release Testing Container</value>
+	<include>/site/components/web/4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</include>
+	<disableFlattening>false</disableFlattening>
 	</item></sections_o>
 	<keywords_o item-list="true">	<item>	<keyword_s>microsite</keyword_s>
 	</item>	<item>	<keyword_s>landing page</keyword_s>
@@ -58,8 +62,8 @@
 	</item></keywords_o>
 	<createdDate>2020-01-14T23:48:14.728Z</createdDate>
 	<createdDate_dt>2020-01-14T23:48:14.728Z</createdDate_dt>
-	<lastModifiedDate>2020-01-28T16:09:06.623Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-28T16:09:06.623Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-30T21:31:11.729Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T21:31:11.729Z</lastModifiedDate_dt>
 	<folder-name/>
 	<links_o item-list="true">	<item>	<title_s>Home</title_s>
 	<sectionid_s>home</sectionid_s>
