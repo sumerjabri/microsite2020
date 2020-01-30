@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/2upadapter</content-type>
+	<display-template>/templates/web/components/adapters/2-up.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4525</objectGroupId>
+	<objectId>4525c71e-344b-1c6f-71c4-5bb03e2c73e7</objectId>
+	<file-name>4525c71e-344b-1c6f-71c4-5bb03e2c73e7.xml</file-name>
+	<internal-name>Press Release Testing Container</internal-name>
+	<title_s/>
+	<subtitle_s/>
+	<slots_o item-list="true">	<item>	<slot1_o>		<item><key>/site/components/content/press-releases/2020/35d988ae-eb83-3f35-dfcb-6564716c6343.xml</key>
+<value>First Press Release</value>
+<datasource>component</datasource>
+<include>/site/components/content/press-releases/2020/35d988ae-eb83-3f35-dfcb-6564716c6343.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></slot1_o>
+	<slot2_o/>
+	</item></slots_o>
+	<createdDate>2020-01-30T21:31:50.495Z</createdDate>
+	<createdDate_dt>2020-01-30T21:31:50.495Z</createdDate_dt>
+	<lastModifiedDate>2020-01-30T21:31:50.495Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T21:31:50.495Z</lastModifiedDate_dt>
+</component>
