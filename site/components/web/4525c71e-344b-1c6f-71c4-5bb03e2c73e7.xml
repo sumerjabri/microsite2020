@@ -16,10 +16,15 @@
 <include>/site/components/content/press-releases/2020/35d988ae-eb83-3f35-dfcb-6564716c6343.xml</include>
 <disableFlattening>false</disableFlattening>
 		</item></slot1_o>
-	<slot2_o/>
+	<slot2_o>		<item><key>/site/components/content/gallery-photos/2020/f9287ee9-0515-8b6d-dff3-a8ba97f22650.xml</key>
+<value>First Gallery Photo</value>
+<datasource>component</datasource>
+<include>/site/components/content/gallery-photos/2020/f9287ee9-0515-8b6d-dff3-a8ba97f22650.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></slot2_o>
 	</item></slots_o>
 	<createdDate>2020-01-30T21:31:50.495Z</createdDate>
 	<createdDate_dt>2020-01-30T21:31:50.495Z</createdDate_dt>
-	<lastModifiedDate>2020-01-30T21:31:50.495Z</lastModifiedDate>
-	<lastModifiedDate_dt>2020-01-30T21:31:50.495Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-01-30T22:38:19.985Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-01-30T22:38:19.985Z</lastModifiedDate_dt>
 </component>
