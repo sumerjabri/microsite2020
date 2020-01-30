@@ -5,7 +5,7 @@
 	<content-type>/component/pressrelease</content-type>
 	<imageThumbnail>undefined</imageThumbnail>
 	<quickCreate>true</quickCreate>
-	<quickCreatePath>/site/components/content/press-releases</quickCreatePath>
+	<quickCreatePath>/site/components/content/press-releases/{year}/</quickCreatePath>
 	<properties>		<property>
 			<name>display-template</name>
 			<label>Display Template</label>
