@@ -37,6 +37,7 @@ https://function1.com
 - add new item through node picker puts all nodes directly into /components - fix to position similar to quickLinks
 - add required flags on last few types
 - add media contact pointer to bio into the Press Relese
+- display body of press release in new press release detail template
 
 
 ### Version 0.2.6 January 27, 2020
