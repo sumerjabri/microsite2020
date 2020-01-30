@@ -104,7 +104,7 @@
 					<properties>
 						<property>
 							<name>datasource</name>
-							<value></value>
+							<value>category</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
@@ -142,12 +142,12 @@
 						</property>
 						<property>
 							<name>options</name>
-							<value></value>
+							<value>[{&quot;key&quot;:&quot;event&quot;,&quot;value&quot;:&quot;Event&quot;},{&quot;key&quot;:&quot;performer&quot;,&quot;value&quot;:&quot;Performer&quot;},{&quot;key&quot;:&quot;media&quot;,&quot;value&quot;:&quot;Media&quot;}]</value>
 								<type>undefined</type>
 						</property>
 						<property>
 							<name>showkeys</name>
-							<value></value>
+							<value>false</value>
 								<type>undefined</type>
 						</property>
 					</properties>
