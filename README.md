@@ -34,6 +34,7 @@ https://function1.com
 - add labels for "watch now" "listen now" and other static strings.
 - add new item through node picker puts all nodes directly into /components - fix to position similar to quickLinks
 - add required flags on last few types
+- ensure that field default settings / sizes match conventions
 - add media contact pointer to bio into the Press Relese
 - display body of press release in new press release detail template
 
