@@ -23,8 +23,6 @@ https://function1.com
 
 ### Known Issues
 - Site defaults need to be configured
-- Many more section types need to be added
-- Automatically building the navigation by section is not yet hooked up
 - add icons to sidebar
 - add security / roles
 - images for start menu items need to be added
@@ -39,6 +37,18 @@ https://function1.com
 - add media contact pointer to bio into the Press Relese
 - display body of press release in new press release detail template
 
+### Planned Future Features
+- Photo Gallery Support
+- Venue support
+- Event support
+    - Single event content type
+    - Next event
+    - Future events
+    - Past events
+- Review  support
+- Programmatically controlled navigation (stand-alone page and jump nav)
+- Email contact form (Lambda or Netlify email)
+- Possible implementation of static / headless delivery on AWS/Netlify via Gatsby
 
 ### Version 0.2.6 January 27, 2020
 Fix bug introduced in 0.2.5 relating to studio performance fix - include freemarker library but not javascript.  Crafter 3.1.5 support.
