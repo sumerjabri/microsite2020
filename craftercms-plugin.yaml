@@ -16,7 +16,7 @@ plugin:
   version:
     major: 0
     minor: 2
-    patch: 6
+    patch: 7
   description: |
     A simple microsite template for Crafter. Initial version supports a single landing page. Blogs, articles, and more coming soon.
   website:
@@ -48,6 +48,9 @@ plugin:
     - major: 3
       minor: 1
       patch: 5
+    - major: 3
+      minor: 1
+      patch: 6
   crafterCmsEditions:
     - community
     - enterprise
